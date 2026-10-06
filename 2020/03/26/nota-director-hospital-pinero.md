@@ -1,6 +1,7 @@
 ---
 fecha: "2020-03-26"
 expediente: "MPF00462972"
+incluido_en_expediente: "no"
 original_filename: "pinero.md"
 fuente: "https://gitlab.com/kosciuk/escritos/-/blob/master/pinero.md"
 version_git: "419c65c"
