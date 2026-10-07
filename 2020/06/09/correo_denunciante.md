@@ -62,16 +62,7 @@ El mar., 9 jun. 2020 a las 6:00, Nicolas (<nhk.web@gmail.com>) escribió:
 >>
 > > El lun., 8 jun. 2020 a las 14:02, Nicolas (<nhk.web@gmail.com>) escribió:
 >>>
-> > > Estimados... si murio de hambre hay que pesar el cadaver... creo que es la unica prueba.... salvo que la fiscalia que lo
-https://mail.fiscalias.gob.ar/owa/#path=/mail/search
-
-1/3
-
-11/6/2020
-
-Correo - RBranca@fiscalias.gob.ar
-
-rechazo sepa de un contagio masivo de corona y quiera ocultarlo.
+> > > Estimados... si murio de hambre hay que pesar el cadaver... creo que es la unica prueba.... salvo que la fiscalia que lo rechazo sepa de un contagio masivo de corona y quiera ocultarlo.
 >>>
 > > > El lun., 8 jun. 2020 12:37, Rodrigo Branca <RBranca@fiscalias.gob.ar> escribió:
 > > >>
@@ -130,15 +121,7 @@ quien copio en este mail
 > > >> > Saludos atentamente
 > > >> >
 > > >> > Hernan Sosa
-> > >> > Enviado desde mi iPhone
 > > >> >
-https://mail.fiscalias.gob.ar/owa/#path=/mail/search
-
-2/3
-
-11/6/2020
-
-Correo - RBranca@fiscalias.gob.ar
 
 > > >> > > El 7 jun. 2020, a la(s) 19:20, Nicolas <nhk.web@gmail.com> escribió:
 > > >> > >
@@ -156,7 +139,3 @@ Correo - RBranca@fiscalias.gob.ar
 > > >> > > despues es peor que la actitud del medico que me prohibio el ingreso.
 > > >> > > Por favor, traten de pasar la causa a Nacion por que esto ya pinta muy raro.
 > > >> > > Gracias.
-
-https://mail.fiscalias.gob.ar/owa/#path=/mail/search
-
-3/3

@@ -9,31 +9,15 @@ fecha_creacion_pdf: "2020-08-02T14:58:43Z"
 
 FW: Abandono de persona
 
- Responder a todos |
-
- Eliminar
-
-Correo no deseado |
-
-
-
-
-
-FW: Abandono de persona
-
-
 
 Juan Ernesto Rozas
 
- Responder a todos | 
 
 Ayer, 21:13
 Rodrigo Branca 
 
-Bandeja de entrada
 Marcado para seguimiento. Completado a las domingo, 02 de agosto de 2020.
 
-Enviado desde mi smartphone Samsung Galaxy.
 
 -------- Mensaje original -------De: Graciela Monica Diletto <GDiletto@fiscalias.gob.ar>
 Fecha: 1/8/20 19:32 (GMT-03:00)
@@ -49,13 +33,11 @@ cuarta vez que.continua en esta actitud paso a comunicartelo. Para ver si se pue
 medidas legales que pudieran corresponderse.
 Un saludos Cordial, Dra Graciela Diletto
 
-Enviado desde mi Movistar 4G
 
 -------- Mensaje original -------De: Nicolas <nhk.web@gmail.com>
 Fecha: 1/8/20 4:48 p. m. (GMT-03:00)
 A: gracieladiletto52@gmail.com, Graciela Monica Diletto <GDiletto@fiscalias.gob.ar>
 Asunto: Re: Abandono de persona
-https://mail.fiscalias.gob.ar/owa/projection.aspx
 
 1/2
 
@@ -63,22 +45,9 @@ https://mail.fiscalias.gob.ar/owa/projection.aspx
 
 FW: Abandono de persona
 
-Hola, no me respondió lo anterior, le dejo una pregunta nueva, ¿que se
-Responder
-todos
-Eliminar
-Correo no deseado |
-
-clinica
-puede
-averiguaracon
-una|
-historia
-adulterada?
+Hola, no me respondió lo anterior, le dejo una pregunta nueva, ¿que se puede averiguar con
+una historia adulterada?
 
-
-
-
 
 El jue., 16 jul. 2020 a las 1:31, Nicolas (<nhk.web@gmail.com>) escribió:
 >
@@ -132,6 +101,4 @@ El jue., 16 jul. 2020 a las 1:31, Nicolas (<nhk.web@gmail.com>) escribió:
 > > > hijo. Saludos
 > > > Cordiales Graciela Diletto.
 
-https://mail.fiscalias.gob.ar/owa/projection.aspx
 
-2/2

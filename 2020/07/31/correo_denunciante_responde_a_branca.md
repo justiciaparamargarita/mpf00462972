@@ -61,13 +61,7 @@ letrado, continuar con la acción penal de manera autónoma.
 > Para: Rodrigo Branca
 > Cc: Fiscalia PCyF 20
 > Asunto: Re: Fiscalía PCyF Nro. 20 - Notifica resolución s/ caso "Hospital Piñero"
-https://mail.fiscalias.gob.ar/owa/#path=/mail/AAMkAGY4YTcyZDVlLWYwN2UtNGYwZi05Zjc3LWZkMzAwYWFmMWExNAAuAAAAAACthGyJyzk...
 
-1/2
-
-31/7/2020
-
-Correo - RBranca@fiscalias.gob.ar
 
 >
 > Aprovecho a dejar constancia de 2 vídeos:
@@ -83,34 +77,30 @@ Correo - RBranca@fiscalias.gob.ar
 >
 > El vie., 31 jul. 2020 a las 1:16, Nicolas (<nhk.web@gmail.com>) escribió:
 >>
-> > Buenos dias.
-> > Por la presente solicito una entrevista personal con el Señor Fiscal,
-> > que pueda ser grabada en audio, para adjuntar a la causa en cuestión,
-> > el motivo de la misma es averiguar los motivos por los que ha podido
-> > emitir un fallo sin permitirme presentar pruebas, siendo que es mi
-> > creencia que el Fiscal está del lado del denunciante, y para defender
-> > al Hospital estaría el Ministerio Publico de la Defensa. Y lo mas
-> > preocupante es que haya convalidado falsos testimonios.
-> > Gracias.
+>> Buenos dias.
+>> Por la presente solicito una entrevista personal con el Señor Fiscal,
+>> que pueda ser grabada en audio, para adjuntar a la causa en cuestión,
+>> el motivo de la misma es averiguar los motivos por los que ha podido
+>> emitir un fallo sin permitirme presentar pruebas, siendo que es mi
+>> creencia que el Fiscal está del lado del denunciante, y para defender
+>> al Hospital estaría el Ministerio Publico de la Defensa. Y lo mas
+>> preocupante es que haya convalidado falsos testimonios.
+>> Gracias.
 >>
-> > El jue., 30 jul. 2020 a las 17:45, Rodrigo Branca
-> > (<RBranca@fiscalias.gob.ar>) escribió:
+>> El jue., 30 jul. 2020 a las 17:45, Rodrigo Branca
+>> (<RBranca@fiscalias.gob.ar>) escribió:
 >>>
-> > > POSF Dr. Juan Rozas, se notifica al querellante la resolución adoptada sobre el presente caso, la cual se adjunta al
+>>> POSF Dr. Juan Rozas, se notifica al querellante la resolución adoptada sobre el presente caso, la cual se adjunta al
 presente correo electrónico.
+
+>>>
+>>> Sin otro particular, quedando a disposición por cualquier inquietud, saludo atte.
 >>>
 >>>
-> > > Sin otro particular, quedando a disposición por cualquier inquietud, saludo atte.
->>>
->>>
-> > > Rodrigo N. Branca
-> > > Prosecretario Coadyuvante
-> > > Fiscalía PCyF Nro. 20
-> > > Ministerio Público Fiscal C.A.B.A
-> > > Av. Paseo Colón 1333 - Piso 7 Frente
-> > > Tel.: 5299-4800 int. 4823
+>>> Rodrigo N. Branca
+>>> Prosecretario Coadyuvante
+>>> Fiscalía PCyF Nro. 20
+>>> Ministerio Público Fiscal C.A.B.A
 >>>
 
-https://mail.fiscalias.gob.ar/owa/#path=/mail/AAMkAGY4YTcyZDVlLWYwN2UtNGYwZi05Zjc3LWZkMzAwYWFmMWExNAAuAAAAAACthGyJyzk...
 
-2/2

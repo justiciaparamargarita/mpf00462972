@@ -7,19 +7,12 @@ fecha_creacion_pdf: "2020-06-11T12:07:19Z"
 
 11/6/2020
 
-Correo - RBranca@fiscalias.gob.ar
-
 Re: Denuncia MPF 462972
 Nicolas<nhk.web@gmail.com>
 mar 9/6/2020 06:00
 Fiscalia 20
 Para:Juan Bautista Mahiques <jmahiques@fiscalias.gob.ar>;
-Cc:Hernan Eduardo Sosa <HSosa@fiscalias.gob.ar>; Fiscalia PCyF 20 <fiscaliapcyf20@fiscalias.gob.ar>; UIT OESTE
-
-<uitoeste@fiscalias.gob.ar>; UFE - Fiscalia de Cámara PCyF Este <fiscameste@fiscalias.gob.ar>; UFE - Unidad Coordinadora
-<fiscoordufe@fiscalias.gob.ar>; Denuncias MPF CABA <denuncias@fiscalias.gob.ar>; UFO - Fiscalia de Cámara PCyF Oeste
-<fiscamoeste@fiscalias.gob.ar>; UFO - Unidad Coordinadora <fiscoordufo@fiscalias.gob.ar>; Fiscalia PCyF 21
-<fiscaliapcyf21@fiscalias.gob.ar>; Contacto MPF CABA <contacto@fiscalias.gob.ar>; Rodrigo Branca <RBranca@fiscalias.gob.ar>;
+Cc:Hernan Eduardo Sosa <HSosa@fiscalias.gob.ar>; Fiscalia PCyF 20 <fiscaliapcyf20@fiscalias.gob.ar>; UIT OESTE <uitoeste@fiscalias.gob.ar>; UFE - Fiscalia de Cámara PCyF Este <fiscameste@fiscalias.gob.ar>; UFE - Unidad Coordinadora <fiscoordufe@fiscalias.gob.ar>; Denuncias MPF CABA <denuncias@fiscalias.gob.ar>; UFO - Fiscalia de Cámara PCyF Oeste <fiscamoeste@fiscalias.gob.ar>; UFO - Unidad Coordinadora <fiscoordufo@fiscalias.gob.ar>; Fiscalia PCyF 21 <fiscaliapcyf21@fiscalias.gob.ar>; Contacto MPF CABA <contacto@fiscalias.gob.ar>; Rodrigo Branca <RBranca@fiscalias.gob.ar>;
 
 Buenas, para no hacerles perder mucho tiempo en investigaciones
 metafísicas, sugiero que contacten con Felipe Miguel, que él, por
@@ -60,13 +53,7 @@ rechazo sepa de un contagio masivo de corona y quiera ocultarlo.
 >>
 > > El lun., 8 jun. 2020 12:37, Rodrigo Branca <RBranca@fiscalias.gob.ar> escribió:
 > >>
-https://mail.fiscalias.gob.ar/owa/#path=/mail/search
 
-1/3
-
-11/6/2020
-
-Correo - RBranca@fiscalias.gob.ar
 
 > >> Estimado, me dirijo a ud. POSF a fin de hacerle saber que en el marco de la causa de referencia, esta Fiscalía ha
 iniciado una investigación y una imputación formal, respecto de la totalidad de los médicos y personal de salud del Hospital
@@ -96,8 +83,6 @@ curso otras tareas de investigación.
 > >> Prosecretario Coadyuvante
 > >> Fiscalía PCyF Nro. 20
 > >> Ministerio Público Fiscal C.A.B.A
-> >> Av. Paseo Colón 1333 - Piso 7 Frente
-> >> Tel.: 5299-4800 int. 4823
 > >>
 > >> ________________________________
 > >> De: Nicolas <nhk.web@gmail.com>
@@ -123,13 +108,11 @@ quien copio en este mail
 > >> > Saludos atentamente
 > >> >
 > >> > Hernan Sosa
-> >> > Enviado desde mi iPhone
 > >> >
 > >> > > El 7 jun. 2020, a la(s) 19:20, Nicolas <nhk.web@gmail.com> escribió:
 > >> > >
 > >> > > Hola, el 4 de mayo mi abogado hizo una denuncia (a mi no me la
 > >> > > tomaban) por que en el Hospital Piñero murio mi madre quiza de hambre
-https://mail.fiscalias.gob.ar/owa/#path=/mail/search
 
 2/3
 
@@ -150,6 +133,4 @@ Correo - RBranca@fiscalias.gob.ar
 > >> > > Por favor, traten de pasar la causa a Nacion por que esto ya pinta muy raro.
 > >> > > Gracias.
 
-https://mail.fiscalias.gob.ar/owa/#path=/mail/search
 
-3/3

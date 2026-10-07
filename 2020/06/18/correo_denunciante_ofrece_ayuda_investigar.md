@@ -62,14 +62,6 @@ curso otras tareas de investigación.
 > De: Nicolas <nhk.web@gmail.com>
 > Enviado: domingo, 7 de junio de 2020 22:38:15
 > Para: Hernan Eduardo Sosa
-https://mail.fiscalias.gob.ar/owa/#path=/mail/inbox
-
-1/2
-
-18/6/2020
-
-Correo - RBranca@fiscalias.gob.ar
-
 > Cc: Fiscalia PCyF 20; UIT OESTE; Juan Bautista Mahiques
 > Asunto: Re: Denuncia MPF 462972
 >
@@ -90,7 +82,6 @@ copio en este mail
 > > Saludos atentamente
 >>
 > > Hernan Sosa
-> > Enviado desde mi iPhone
 >>
 > > > El 7 jun. 2020, a la(s) 19:20, Nicolas <nhk.web@gmail.com> escribió:
 >>>
@@ -109,6 +100,4 @@ copio en este mail
 > > > Por favor, traten de pasar la causa a Nacion por que esto ya pinta muy raro.
 > > > Gracias.
 
-https://mail.fiscalias.gob.ar/owa/#path=/mail/inbox
 
-2/2

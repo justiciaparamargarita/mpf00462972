@@ -7,8 +7,6 @@ fecha_creacion_pdf: "2020-06-11T12:05:56Z"
 
 11/6/2020
 
-Correo - RBranca@fiscalias.gob.ar
-
 Re: Denuncia MPF 462972
 Nicolas<nhk.web@gmail.com>
 dom 7/6/2020 22:38
@@ -34,7 +32,6 @@ copio en este mail
 > Saludos atentamente
 >
 > Hernan Sosa
-> Enviado desde mi iPhone
 >
 > > El 7 jun. 2020, a la(s) 19:20, Nicolas <nhk.web@gmail.com> escribió:
 >>
@@ -53,6 +50,3 @@ copio en este mail
 > > Por favor, traten de pasar la causa a Nacion por que esto ya pinta muy raro.
 > > Gracias.
 
-https://mail.fiscalias.gob.ar/owa/#path=/mail/search
-
-1/1

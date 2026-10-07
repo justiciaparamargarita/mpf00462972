@@ -17,10 +17,9 @@ Para:Nicolas <nhk.web@gmail.com>;
 Cc:Fiscalia PCyF 20 <fiscaliapcyf20@fiscalias.gob.ar>; Carlos Harari <carlos.harari@yahoo.com.ar>;
 
 Estimado, POSF Dr. Juan Rozas, le hago saber que debido al Aislamiento Social, Preventivo y Obligatorio
-dictado por el tular del Poder Ejecutivo Nacional, este Ministerio Público Fiscal no se encuentra prestando
+dictado por el titular del Poder Ejecutivo Nacional, este Ministerio Público Fiscal no se encuentra prestando
 servicio de manera presencial, motivo por el cual no se podrá llevar a cabo la entrevista solicitada por usted.
-Por otro lado, le informo que la vía para peticionar la revisión de archivo en caso de que usted no esté de
-acuerdo con la decisión arribada, es mediante este correo electrónico. En su presentación digital, podrá hacer
+Por otro lado, le informo que la vía para peticionar la revisión de archivo en caso de que usted no esté de acuerdo con la decisión arribada, es mediante este correo electrónico. En su presentación digital, podrá hacer
 toda la manifestación que es me necesaria para que el Sr. Fiscal de Cámara pueda analizar y decidir en tal
 sen do.
 Por úl mo, debo mencionarle que usted es parte querellante en el presente caso -circunstancia que le fue
@@ -35,8 +34,6 @@ Rodrigo N. Branca
 Prosecretario Coadyuvante
 Fiscalía PCyF Nro. 20
 Ministerio Público Fiscal C.A.B.A
-Av. Paseo Colón 1333 - Piso 7 Frente
-Tel.: 5299-4800 int. 4823
 
 De: Nicolas <nhk.web@gmail.com>
 Enviado: viernes, 31 de julio de 2020 02:13
@@ -47,13 +44,8 @@ Aprovecho a dejar constancia de 2 vídeos:
 El momento de la expulsión del 25/3: h ps://youtu.be/jzmWhk7Fs-Y
 El mismo día, pero con el desayuno que nadie le dió:
 h ps://youtu.be/aU7zQP-kpXA, lo que no es problema
-https://mail.fiscalias.gob.ar/owa/#path=/mail/AAMkAGY4YTcyZDVlLWYwN2UtNGYwZi05Zjc3LWZkMzAwYWFmMWExNAAuAAAAAACthGyJyzk...
 
-1/2
 
-31/7/2020
-
-Correo - RBranca@fiscalias.gob.ar
 
 Se los debo pasar a ustedes o al Fiscal de Cámara?
 Saludos
@@ -84,10 +76,6 @@ correo electrónico.
 > > Prosecretario Coadyuvante
 > > Fiscalía PCyF Nro. 20
 > > Ministerio Público Fiscal C.A.B.A
-> > Av. Paseo Colón 1333 - Piso 7 Frente
-> > Tel.: 5299-4800 int. 4823
 >>
 
-https://mail.fiscalias.gob.ar/owa/#path=/mail/AAMkAGY4YTcyZDVlLWYwN2UtNGYwZi05Zjc3LWZkMzAwYWFmMWExNAAuAAAAAACthGyJyzk...
 
-2/2

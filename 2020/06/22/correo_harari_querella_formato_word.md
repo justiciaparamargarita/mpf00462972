@@ -14,11 +14,8 @@ Carlos Harari<carlos.harari@yahoo.com.ar>
 lun 22/6/2020 15:32
 Para:Fiscalia PCyF 20 <fiscaliapcyf20@fiscalias.gob.ar>;
 
- 1 archivos adjuntos (17 KB)
+1 archivos adjuntos (17 KB)
 SE CONSTITUYEN EN QUERELLANTE DEF.docx;
 
 ARCHIVO EN WORD SOLICITADO
 
-https://mail.fiscalias.gob.ar/owa/#path=/mail/AAMkAGY4YTcyZDVlLWYwN2UtNGYwZi05Zjc3LWZkMzAwYWFmMWExNAAuAAAAAACthGyJyzk...
-
-1/1

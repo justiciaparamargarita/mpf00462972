@@ -9,23 +9,12 @@ fecha_creacion_pdf: "2020-07-30T21:06:14Z"
 
 Fiscalía PCyF Nro. 20 - Notifica resolución s/ caso "Hospital Piñero"
 
- Responder a todos |
-
- Eliminar
-
-Correo no deseado |
-
-
-
-
 
 Fiscalía PCyF Nro. 20 - Notifica resolución s/ caso "Hospital Piñero"
 
-
 
 Rodrigo Branca
 
- Responder a todos | 
 
 jue 30/7/2020 17:45
 Para: Carlos Harari<carlos.harari@yahoo.com.ar>; Nicolas<nhk.web@gmail.com>
@@ -38,9 +27,7 @@ Fiscalia 20
 MPF00462972_Art._199,...
 108 KB
 
-
-
-Mostrar todos 1 archivos adjuntos (108 KB)
+Mostrar todos 1 archivos adjuntos (108 KB)
 
 descargar
 
@@ -54,24 +41,9 @@ Ministerio Público Fiscal C.A.B.A
 Av. Paseo Colón 1333 - Piso 7 Frente
 Tel.: 5299-4800 int. 4823
 
-https://mail.fiscalias.gob.ar/owa/projection.aspx
 
-1/2
-
-30/7/2020
-
- Responder a todos |
 
 Fiscalía PCyF Nro. 20 - Notifica resolución s/ caso "Hospital Piñero"
 
- Eliminar
 
-https://mail.fiscalias.gob.ar/owa/projection.aspx
 
-Correo no deseado |
-
-
-
-
-
-2/2

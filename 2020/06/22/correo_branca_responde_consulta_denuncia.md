@@ -41,6 +41,3 @@ Denuncia Nro: 462972 / denunciante : Sr. Nicolas Horacio Kosciuk / DNI 28.731.77
 Gracias.
 Saludos a Ustedes muy A e.
 
-https://mail.fiscalias.gob.ar/owa/#path=/mail/AAMkAGY4YTcyZDVlLWYwN2UtNGYwZi05Zjc3LWZkMzAwYWFmMWExNAAuAAAAAACthGyJyzk...
-
-1/1

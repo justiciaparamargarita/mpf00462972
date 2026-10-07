@@ -7,26 +7,9 @@ fecha_creacion_pdf: "2020-06-23T15:14:55Z"
 
 23/6/2020
 
-Fiscalía PCyF Nro. 20 - Notifica resolución de Juzgado relativa a petición de querella
-
- Responder a todos |
-
- Eliminar
-
-Correo no deseado |
-
-
-
-
-
-Re: Fiscalía PCyF Nro. 20 - Notifica resolución de Juzgado relativa a
-petición de querella
-
-
+Re: Fiscalía PCyF Nro. 20 - Notifica resolución de Juzgado relativa a petición de querella
 
 Nicolas<nhk.web@gmail.com>
-
- Responder a todos | 
 
 Ayer, 19:38
 Rodrigo Branca; Fiscalia PCyF 20 
@@ -39,8 +22,7 @@ Gracias.
 El lun., 22 jun. 2020 a las 14:56, Rodrigo Branca
 (<RBranca@fiscalias.gob.ar>) escribió:
 >
-> POSF notifico la resolución del Juzgado PCyF Nro. 21, recaída en autos en lo que respecta a la petición de ser
-tenido como parte querellante.
+> POSF notifico la resolución del Juzgado PCyF Nro. 21, recaída en autos en lo que respecta a la petición de ser tenido como parte querellante.
 >
 >
 > Rodrigo N. Branca
@@ -51,24 +33,3 @@ tenido como parte querellante.
 > Tel.: 5299-4800 int. 4823
 >
 
-https://mail.fiscalias.gob.ar/owa/projection.aspx
-
-1/2
-
-23/6/2020
-
- Responder a todos |
-
-Fiscalía PCyF Nro. 20 - Notifica resolución de Juzgado relativa a petición de querella
-
- Eliminar
-
-https://mail.fiscalias.gob.ar/owa/projection.aspx
-
-Correo no deseado |
-
-
-
-
-
-2/2

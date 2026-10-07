@@ -49,16 +49,7 @@ Dr Carlos Harari
 El jueves, 30 de julio de 2020 08:11:02 ART, Rodrigo Branca <rbranca@fiscalias.gob.ar> escribió:
 
 Dr. accediendo al siguiente enlace, o bien copiandolo y pegándolo en su explorador web (chrome, internet
-explorer, etc) podrá acceder a descargar la totalidad de la carpeta. Este enlace también ene una caducidad
-https://mail.fiscalias.gob.ar/owa/#path=/mail/inbox
-
-1/3
-
-1/8/2020
-
-Correo - RBranca@fiscalias.gob.ar
-
-de 7 días, por lo que le solicito tenga a bien descargar los archivos y guardarlos en su PC o bien en un soporte
+explorer, etc) podrá acceder a descargar la totalidad de la carpeta. Este enlace también ene una caducidad de 7 días, por lo que le solicito tenga a bien descargar los archivos y guardarlos en su PC o bien en un soporte
 de almacenamiento digital (USB) como resguardo.
 Link: h ps://www.filemail.com/d/drbv qslhkngzf
 
@@ -90,28 +81,17 @@ hasta que el error sea subsanado.
 Espero que en enda la situación, lo saludo a e.
 Rodrigo N. Branca
 Prosecretario Coadyuvante
-https://mail.fiscalias.gob.ar/owa/#path=/mail/inbox
 
-2/3
-
-1/8/2020
-
-Correo - RBranca@fiscalias.gob.ar
 
 Fiscalía PCyF Nro. 20
 Ministerio Público Fiscal C.A.B.A
-Av. Paseo Colón 1333 - Piso 7 Frente
-Tel.: 5299-4800 int. 4823
 
 De: Carlos Harari <carlos.harari@yahoo.com.ar>
 Enviado: miércoles, 29 de julio de 2020 15:19:30
 Para: Fiscalia PCyF 20; carlos 2; CARLOS BUENO
 Asunto: SOLICITO NUEVO ENVIO WEB TRASNFER
-Estimado Fiscal, sepa disculpar, pero el web tranfer con datos de la causa me ha caducado, por lo cual solicito si tiene la
-gentileza de reenviarlo, causa MPF 462972 KOSCUIK QUERELLA, le agradeciera gentilmente.
+
+Estimado Fiscal, sepa disculpar, pero el web tranfer con datos de la causa me ha caducado, por lo cual solicito si tiene la gentileza de reenviarlo, causa MPF 462972 KOSCUIK QUERELLA, le agradeciera gentilmente.
 Dr Carlos Harari
 TOMO 19 FOLIO 646
 
-https://mail.fiscalias.gob.ar/owa/#path=/mail/inbox
-
-3/3

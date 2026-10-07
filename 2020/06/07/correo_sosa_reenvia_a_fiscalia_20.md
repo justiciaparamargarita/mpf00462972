@@ -9,23 +9,8 @@ fecha_creacion_pdf: "2020-06-11T12:05:37Z"
 
 Re: Denuncia MPF 462972
 
- Responder a todos |
-
- Eliminar
-
-Correo no deseado |
-
-
-
-
-
-Re: Denuncia MPF 462972
-
-
 
 Hernan Eduardo Sosa
-
- Responder a todos | 
 
 dom 7/6, 22:35
 Nicolas<nhk.web@gmail.com>; Fiscalia PCyF 20; UIT OESTE; Juan Bautista Ma 
@@ -36,7 +21,6 @@ Estimado Señor Nicolas, reenvió su mail a la fiscalia 20 donde se encuentra tr
 quien copio en este mail
 Saludos atentamente
 Hernan Sosa
-Enviado desde mi iPhone
 > El 7 jun. 2020, a la(s) 19:20, Nicolas <nhk.web@gmail.com> escribió:
 >
 > Hola, el 4 de mayo mi abogado hizo una denuncia (a mi no me la
@@ -53,7 +37,3 @@ Enviado desde mi iPhone
 > despues es peor que la actitud del medico que me prohibio el ingreso.
 > Por favor, traten de pasar la causa a Nacion por que esto ya pinta muy raro.
 > Gracias.
-
-https://mail.fiscalias.gob.ar/owa/projection.aspx
-
-1/1

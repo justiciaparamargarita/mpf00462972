@@ -38,6 +38,4 @@ conductas por parte del señor kosciuk.
 Sin mas saludo a ud atte.
 Dr Carlos Harari
 
-https://mail.fiscalias.gob.ar/owa/#path=/mail/inbox
 
-1/1

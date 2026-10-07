@@ -5,9 +5,6 @@ original_filename: "Correo - RBranca@fiscalias.gob.ar 5 (1).pdf"
 fecha_creacion_pdf: "2020-06-11T12:06:58Z"
 ---
 
-11/6/2020
-
-Correo - RBranca@fiscalias.gob.ar
 
 Re: Denuncia MPF 462972
 Nicolas<nhk.web@gmail.com>
@@ -61,19 +58,10 @@ curso otras tareas de investigación.
 >>
 >> Rodrigo N. Branca
 >> Prosecretario Coadyuvante
-https://mail.fiscalias.gob.ar/owa/#path=/mail/search
 
-1/2
-
-11/6/2020
 
 Correo - RBranca@fiscalias.gob.ar
 
->> Fiscalía PCyF Nro. 20
->> Ministerio Público Fiscal C.A.B.A
->> Av. Paseo Colón 1333 - Piso 7 Frente
->> Tel.: 5299-4800 int. 4823
->>
 >> ________________________________
 >> De: Nicolas <nhk.web@gmail.com>
 >> Enviado: domingo, 7 de junio de 2020 22:38:15
@@ -98,7 +86,6 @@ copio en este mail
 >> > Saludos atentamente
 >> >
 >> > Hernan Sosa
->> > Enviado desde mi iPhone
 >> >
 >> > > El 7 jun. 2020, a la(s) 19:20, Nicolas <nhk.web@gmail.com> escribió:
 >> > >
@@ -117,6 +104,3 @@ copio en este mail
 >> > > Por favor, traten de pasar la causa a Nacion por que esto ya pinta muy raro.
 >> > > Gracias.
 
-https://mail.fiscalias.gob.ar/owa/#path=/mail/search
-
-2/2

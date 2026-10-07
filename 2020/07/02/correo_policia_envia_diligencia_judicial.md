@@ -12,7 +12,6 @@ Correo - RBranca@fiscalias.gob.ar
 Re: Fiscalía PCyF Nro. 20 - Orden de presentación MPF 462972
 judiciales desempeño<judiciales.cdprof@gmail.com>
 jue 2/7/2020 11:34
-Bandeja de entrada
 Para:Rodrigo Branca <RBranca@fiscalias.gob.ar>;
 
  1 archivos adjuntos (505 KB)
@@ -45,7 +44,6 @@ Rodrigo N. Branca
 Prosecretario Coadyuvante
 Fiscalía PCyF Nro. 20
 Ministerio Público Fiscal C.A.B.A
-https://mail.fiscalias.gob.ar/owa/#path=/mail/AAMkAGY4YTcyZDVlLWYwN2UtNGYwZi05Zjc3LWZkMzAwYWFmMWExNAAuAAAAAACthGyJyzk...
 
 1/2
 
@@ -56,6 +54,5 @@ Correo - RBranca@fiscalias.gob.ar
 Av. Paseo Colón 1333 - Piso 7 Frente
 Tel.: 5299-4800 int. 4823
 
-https://mail.fiscalias.gob.ar/owa/#path=/mail/AAMkAGY4YTcyZDVlLWYwN2UtNGYwZi05Zjc3LWZkMzAwYWFmMWExNAAuAAAAAACthGyJyzk...
 
 2/2
