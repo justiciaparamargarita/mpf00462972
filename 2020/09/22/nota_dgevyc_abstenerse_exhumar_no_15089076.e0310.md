@@ -4,10 +4,10 @@ expediente: "MPF00462972"
 incluido_en_expediente: "no"
 original_filename: "NO-2020-15089076.pdf"
 fecha_creacion_pdf: "2020-06-11T13:39:25Z"
-origen_email: "emails/fiscalias.gob.ar/consultas-referidas-a-dos-causas.e0310.eml"
+origen_email: "fuentes/emails/fiscalias.gob.ar/consultas-referidas-a-dos-causas.e0310.eml"
 ---
 
-G O B I E R N O DE LA C I U D A D DE B U E N O S A I R E S
+GOBIERNO DE LA CIUDAD DE BUENOS AIRES
 
 Número: NO-2020-15089076-GCABA-DGEVYC
 Buenos Aires,

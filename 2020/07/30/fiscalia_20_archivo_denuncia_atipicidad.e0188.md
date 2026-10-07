@@ -3,7 +3,7 @@ fecha: "2020-07-30"
 expediente: "MPF00462972"
 original_filename: "MPF00462972_Art._199,_a).-_L_2303.__Archivo_de_la_denuncia_y_actuaciones_de_prevención__Atipicidad_1596136824.pdf"
 fecha_creacion_pdf: "2020-07-30T16:20:24-03"
-origen_email: "emails/fiscalias.gob.ar/fiscalia-pcyf-nro-20-notifica-resolucion.e0188.eml"
+origen_email: "fuentes/emails/fiscalias.gob.ar/fiscalia-pcyf-nro-20-notifica-resolucion.e0188.eml"
 ---
 
 Ministerio Público Fiscal de la Ciudad Autónoma de Buenos Aires

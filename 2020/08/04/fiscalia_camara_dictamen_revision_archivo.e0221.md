@@ -3,7 +3,7 @@ fecha: "2020-08-04"
 expediente: "MPF00462972"
 original_filename: "DictamenDeRevision-23176-1596564906.pdf"
 fecha_creacion_pdf: "2020-08-04T15:15:06-03"
-origen_email: "emails/fiscalias.gob.ar/notifica-resolucion-de-fiscalia-de-camar.e0221.eml"
+origen_email: "fuentes/emails/fiscalias.gob.ar/notifica-resolucion-de-fiscalia-de-camar.e0221.eml"
 ---
 
 Ministerio Público Fiscal de la Ciudad Autónoma de Buenos Aires

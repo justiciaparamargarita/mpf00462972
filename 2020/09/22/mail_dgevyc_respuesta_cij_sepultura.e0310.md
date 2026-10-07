@@ -4,7 +4,7 @@ expediente: "MPF00462972"
 incluido_en_expediente: "no"
 original_filename: "MINISTERIO PÚBLICO FISCAL.pdf"
 fecha_creacion_pdf: "2020-06-12T10:36:54Z"
-origen_email: "emails/fiscalias.gob.ar/consultas-referidas-a-dos-causas.e0310.eml"
+origen_email: "fuentes/emails/fiscalias.gob.ar/consultas-referidas-a-dos-causas.e0310.eml"
 ---
 
 12/6/2020
