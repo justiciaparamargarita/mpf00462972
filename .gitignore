@@ -1,0 +1,83 @@
+# Lo que NO se publica, con su motivo. El bloque de abajo lo genera
+# watson/scripts/publicables.py. Parte manual: rutas bloqueadas a mano, y
+# "# publicar: /ruta - motivo" para lo que el script bloquearia pero se publica igual.
+
+# versiones sin tachar; se publican las redacted historia_clinica_1a y _2a
+/historia_clinica/historia_clinica_1.pdf
+/historia_clinica/historia_clinica_2.pdf
+
+# publicar: /historia_clinica/historia_clinica_1a.pdf - version redacted de _1
+# publicar: /historia_clinica/historia_clinica_2a.pdf - version redacted de _2
+# publicar: /historia_clinica/historia_clinica_3.pdf - pags. 317-425 sin datos anonimizados
+# publicar: /historia_clinica/historia_clinica_4.pdf - idem
+# publicar: /historia_clinica/historia_clinica_5.pdf - idem
+# publicar: /historia_clinica/historia_clinica_6.pdf - idem
+# publicar: /historia_clinica/historia_clinica_7.pdf - idem
+# publicar: /historia_clinica/fojas/001.webp - [numero18]/[numero19], telefonos viejos de la familia
+# publicar: /historia_clinica/fojas/015.webp - [numero19]
+# publicar: /historia_clinica/fojas/018.webp - [numero19]
+# publicar: /historia_clinica/fojas/019.webp - [numero19]
+# publicar: /historia_clinica/fojas/023.webp - [numero19]
+# publicar: /historia_clinica/fojas/034.webp - [numero19]
+
+# Audios que ya tienen sus propias transcripciones oficiales (pdf con su md); el md de cada audio casi no tiene contenido.
+2020/03/25/llamada_911_131630_suceso_30489464.md
+2020/03/25/llamada_911_131630_suceso_30489464.wav
+2020/03/25/llamada_911_200902_suceso_30493529.md
+2020/03/25/llamada_911_200902_suceso_30493529.mp3
+2020/03/25/llamada_911_202158_suceso_30493637.md
+2020/03/25/llamada_911_202158_suceso_30493637.wav
+2020/03/25/llamada_911_204554_suceso_30493810.md
+2020/03/25/llamada_911_204554_suceso_30493810.wav
+
+# --- publicables (generado por publicables.py, no editar debajo) ---
+# Oculta: DNI
+/2020/04/30/acta_defuncion.pdf
+# Oculta: DNI
+/2020/05/18/acta_orden_presentacion_hospital.jpg
+# Oculta: DNI
+/2020/05/19/nota_hospital_seguimiento_cadaveres.pdf
+# Oculta: DNI
+/2020/06/03/informe_cij_orden_presentacion_hospital.pdf
+# Oculta: email
+/2020/06/08/correo_harari_credencial.pdf
+# Oculta: email
+/2020/06/08/correo_harari_dni_querellante.pdf
+# Oculta: email
+/2020/06/08/correo_harari_se_constituye_querellante.pdf
+# Oculta: email
+/2020/06/09/informe_investigador_correos_querella.pdf
+# Oculta: DNI, dirección, teléfono
+/2020/06/10/informe_cij_tareas_investigacion.pdf
+# Oculta: email
+/2020/06/12/correo_fiscalia_notifica_proveido.pdf
+# Oculta: email
+/2020/06/16/correo_rozas_reenvia_informe_diletto.pdf
+# Oculta: email
+/2020/06/22/correo_branca_responde_consulta_denuncia.pdf
+# Oculta: email
+/2020/06/22/correo_harari_adjunta_partida_nacimiento.pdf
+# Oculta: email
+/2020/06/22/correo_harari_querella_formato_word.pdf
+# Oculta: DNI, email, teléfono
+/2020/07/02/policia_diligencia_judicial_217_20.pdf
+# Oculta: email
+/2020/07/03/correo_escrich_reenvia_informe_auxiliar.pdf
+# Oculta: teléfono
+/2020/07/03/informe_auxiliar_cij_gabinete_medico.pdf
+# Oculta: teléfono
+/2020/07/03/informe_auxiliar_cij_gabinete_psicologico.pdf
+# Oculta: email
+/2020/07/13/proveido_tiene_por_querellante.pdf
+# Oculta: email
+/2020/07/15/correo_branca_responde_a_harari.pdf
+# Oculta: email
+/2020/07/27/correo_harari_solicita_copia_expediente.pdf
+# Oculta: email
+/2020/07/30/correo_branca_responde_enlace_descarga.pdf
+# Oculta: email
+/2020/07/30/correo_fiscalia_notifica_resolucion_caso.pdf
+# Oculta: email
+/2020/07/31/correo_branca_responde_sobre_entrevista.pdf
+# Oculta: email
+/2020/08/01/correo_rozas_reenvia_mail_de_diletto.pdf

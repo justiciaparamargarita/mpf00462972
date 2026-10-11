@@ -1,0 +1,40 @@
+---
+fecha: "2020-07-27"
+expediente: "MPF00462972"
+original_filename: "mail harari pide copias.pdf"
+fecha_creacion_pdf: "2020-07-28T14:20:39Z"
+sha256: "6567ec8330629dbcb0965d9a99b531711610d62b0c3facdb5e8713bc568e1f58"
+---
+
+28/7/2020
+Re: SOLICITA COPIA ESCANEADA DE LA TOTALIDAD DEL EXPDIENTE
+Salim Nahem<harari.redacted@yahoo.com.ar>
+lun 27/7/2020 13:57
+Para:Rodrigo Branca <RBranca@fiscalias.gob.ar>;
+
+Le agradezco su pront respuesta.
+cordialmente
+Dr Carlos Harari
+El lun., 27 jul. 2020 a las 13:54, Rodrigo Branca (<RBranca@fiscalias.gob.ar>) escribió:
+
+Estimado Dr. Harari, le hago saber POSF Dr. Juan Rozas, que el presente caso se encuentra digitalizado en su
+totalidad debido al ASPO y el mismo se le ha remitido a usted y al Sr. Kosciuk oportunamente por correo electrónico, careciendo de otras actuaciones que las ya remitidas.
+
+Quedo a su disposición. Lo saludo atte.
+
+Rodrigo N. Branca
+Prosecretario Coadyuvante
+Fiscalía PCyF Nro. 20
+Ministerio Público Fiscal CABA
+Av. Paseo Colón 1333 - Piso 7 Frente
+Tel.: 5299-4800 int. 4823
+
+De: Carlos Harari <harari.redacted@yahoo.com.ar>
+Enviado: lunes, 27 de julio de 2020 13:48:36
+Para: Fiscalia PCyF 20; carlos 2; CARLOS BUENO
+Asunto: SOLICITA COPIA ESCANEADA DE LA TOTALIDAD DEL EXPDIENTE
+Buen dia, con el fin de poder realizar peticiones que esta parte considero pertinente el el expediente MPF 462972, en calidad de querelllante por el señor Nicolas Koscuik
+Muchas gracias
+Cordilalmente
+Dr Carlos Harari
+
