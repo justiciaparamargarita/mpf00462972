@@ -1,0 +1,12 @@
+---
+fecha: "2020-06-08"
+expediente: "MPF00462972"
+original_filename: "CREDENCIAL DR HARARI CAUSA MPF 462972 (1).pdf"
+fecha_creacion_pdf: "2020-06-09T13:15:20Z"
+sha256: "8be71538c08499739fa7abb0edca67d77f0e8d740cb73a5b37e3129fa0f050a0"
+---
+
+9/6/2020
+
+CREDENCIAL DR HARARI CAUSA MPF 462972
+
