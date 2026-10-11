@@ -7,10 +7,6 @@ expediente: "MPF00462972"
 - [Informe suceso 30489464](2020/03/25/informe_suceso_30489464.md)
 - [Informe suceso 30493529 30493637](2020/03/25/informe_suceso_30493529_30493637.md)
 - [Informe suceso 30493810](2020/03/25/informe_suceso_30493810.md)
-- [Llamada 911 131630 suceso 30489464](2020/03/25/llamada_911_131630_suceso_30489464.md)
-- [Llamada 911 200902 suceso 30493529](2020/03/25/llamada_911_200902_suceso_30493529.md)
-- [Llamada 911 202158 suceso 30493637](2020/03/25/llamada_911_202158_suceso_30493637.md)
-- [Llamada 911 204554 suceso 30493810](2020/03/25/llamada_911_204554_suceso_30493810.md)
 
 ## 2020-04-30
 
@@ -182,6 +178,7 @@ expediente: "MPF00462972"
 
 - [Correo branca responde enlace descarga](2020/07/30/correo_branca_responde_enlace_descarga.md)
 - [Correo fiscalia notifica resolucion caso](2020/07/30/correo_fiscalia_notifica_resolucion_caso.md)
+- [Fiscalia 20 archivo denuncia atipicidad](2020/07/30/fiscalia_20_archivo_denuncia_atipicidad.e0188.md)
 
 ## 2020-07-31
 
@@ -193,6 +190,21 @@ expediente: "MPF00462972"
 
 - [Correo rozas reenvia mail de diletto](2020/08/01/correo_rozas_reenvia_mail_de_diletto.md)
 
+## 2020-08-04
+
+- [Fiscalia camara dictamen revision archivo](2020/08/04/fiscalia_camara_dictamen_revision_archivo.e0221.md)
+
+## 2020-09-22
+
+- [Mail dgevyc respuesta cij sepultura](2020/09/22/mail_dgevyc_respuesta_cij_sepultura.e0310.md)
+- [Nota dgevyc abstenerse exhumar no 15089076](2020/09/22/nota_dgevyc_abstenerse_exhumar_no_15089076.e0310.md)
+- [Nota dgevyc bloqueo sepultura no 15123763](2020/09/22/nota_dgevyc_bloqueo_sepultura_no_15123763.e0310.md)
+- [Nota dgevyc nuevo oficio no 15181872](2020/09/22/nota_dgevyc_nuevo_oficio_no_15181872.e0310.md)
+
 ## Historia clínica
 
 - [Historia clínica](historia_clinica/)
+
+## Otros documentos
+
+- [Fuentes: archivos enviados por la Fiscalía](fuentes.md)
