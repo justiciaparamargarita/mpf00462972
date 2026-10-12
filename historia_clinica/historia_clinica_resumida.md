@@ -1,8 +1,8 @@
 ---
 expediente: "MPF00462972"
 fuente: "historia_clinica_1..7.pdf"
-fojas: 251
-excluidas: 19
+fojas: 250
+excluidas: 18
 ---
 # Historia clínica Hospital Piñero (resumida)
 
@@ -202,7 +202,7 @@ EVOLUCIÓN IMPRESA EL DÍA: 28/04/2020 09:07:52 a.m. IDPTE: 506485 IDCM1:7135
 [firma]
 [sello: AILEN MARTIARENA / MEDICA UBA / M.N. 153.107]
 
-## Foja 018
+## Foja 018-019
 
 [sello: MINISTERIO DE SALUD - GCBA | HOSPITAL PIÑERO]
 
@@ -229,10 +229,6 @@ Historia Clínica Nº: 402454
 
 [firma] | Aclaración
 Firma del Paciente
-
-## Foja 019
-
-Excluida: duplicado de 018 (mismo consentimiento HIV escaneado dos veces). Ver `transcripciones/019.md`.
 
 ## Foja 020
 
@@ -1174,7 +1170,7 @@ SEGUIMIENTO DE CULTIVOS
 
 HOSPITAL PIÑERO
 UNIDAD 4 - CLÍNICA MÉDICA
-| Nombre y Apellido | KUCHASKY, MARGARITA LEONOR | HC Nº | 402454 [en círculo: 43] |
+| Nombre y Apellido | KUCHASKY, MARGARITA LEONOR | HC Nº | 402454 [en círculo: 48] |
 | Fecha: 07/02/2020 | Cama: 4 | Días Int. | 16 |
 
 DIAGNOSTICO:
@@ -5559,7 +5555,7 @@ Método: UV
 
 ## Foja 134
 
-139
+134
 HOSPITAL PIÑERO
 LABORATORIO CENTRAL
 Buenos
@@ -7561,7 +7557,7 @@ PACIENTE: KUCHASKY, MARGARITA LEONOR   HC N°: 402454   CAMA: 4   FECHA: 26/2/20
 
 ## Foja 177
 
-[en la esquina superior derecha, dentro de un círculo: 137]
+[en la esquina superior derecha, dentro de un círculo: 177]
 
 HOSPITAL PIÑERO   DIVISION CLÍNICA MÉDICA UNIDAD 4   INDICACIONES A ENFERMERÍA
 PACIENTE: KUCHASKY, MARGARITA LEONOR   HC Nº: 4 354   CAMA: 4   FECHA: 21/2/2020 y 22/2 ` 20
