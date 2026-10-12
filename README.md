@@ -2,12 +2,6 @@
 expediente: "MPF00462972"
 ---
 
-## 2020-03-25
-
-- [Informe suceso 30489464](2020/03/25/informe_suceso_30489464.md)
-- [Informe suceso 30493529 30493637](2020/03/25/informe_suceso_30493529_30493637.md)
-- [Informe suceso 30493810](2020/03/25/informe_suceso_30493810.md)
-
 ## 2020-04-30
 
 - [Acta defuncion](2020/04/30/acta_defuncion.md)
@@ -88,6 +82,7 @@ expediente: "MPF00462972"
 - [Informe investigador correo more](2020/06/11/informe_investigador_correo_more.md)
 - [Informe investigador correos denunciante](2020/06/11/informe_investigador_correos_denunciante.md)
 - [Proveido querella ilegible y partida](2020/06/11/proveido_querella_ilegible_y_partida.md)
+- [DEN00641871](den00641871/README.md)
 
 ## 2020-06-12
 
@@ -137,19 +132,10 @@ expediente: "MPF00462972"
 - [Fiscalia reposicion con apelacion subsidio](2020/06/29/fiscalia_reposicion_con_apelacion_subsidio.md)
 - [Informe investigador declina competencia pami](2020/06/29/informe_investigador_declina_competencia_pami.md)
 - [Juzgado 21 resolucion sobre querella](2020/06/29/juzgado_21_resolucion_sobre_querella.md)
-- [Oficio policia consulta llamados 911](2020/06/29/oficio_policia_consulta_llamados_911.md)
-- [Proveido requiere 911](2020/06/29/proveido_requiere_911.md)
-- [Respuesta 911 registros llamados](2020/06/29/respuesta_911_registros_llamados.md)
-- [Transcripcion llamadas 911](2020/06/29/transcripcion_llamadas_911.md)
 
 ## 2020-06-30
 
 - [Informe investigador contactos kiwi](2020/06/30/informe_investigador_contactos_kiwi.md)
-
-## 2020-07-02
-
-- [Correo policia envia diligencia judicial](2020/07/02/correo_policia_envia_diligencia_judicial.md)
-- [Policia diligencia judicial 217 20](2020/07/02/policia_diligencia_judicial_217_20.md)
 
 ## 2020-07-03
 

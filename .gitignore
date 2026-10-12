@@ -21,14 +21,14 @@
 # publicar: /historia_clinica/fojas/034.webp - [numero19]
 
 # Audios que ya tienen sus propias transcripciones oficiales (pdf con su md); el md de cada audio casi no tiene contenido.
-2020/03/25/llamada_911_131630_suceso_30489464.md
-2020/03/25/llamada_911_131630_suceso_30489464.wav
-2020/03/25/llamada_911_200902_suceso_30493529.md
-2020/03/25/llamada_911_200902_suceso_30493529.mp3
-2020/03/25/llamada_911_202158_suceso_30493637.md
-2020/03/25/llamada_911_202158_suceso_30493637.wav
-2020/03/25/llamada_911_204554_suceso_30493810.md
-2020/03/25/llamada_911_204554_suceso_30493810.wav
+den00641871/2020/03/25/llamada_911_131630_suceso_30489464.md
+den00641871/2020/03/25/llamada_911_131630_suceso_30489464.wav
+den00641871/2020/03/25/llamada_911_200902_suceso_30493529.md
+den00641871/2020/03/25/llamada_911_200902_suceso_30493529.mp3
+den00641871/2020/03/25/llamada_911_202158_suceso_30493637.md
+den00641871/2020/03/25/llamada_911_202158_suceso_30493637.wav
+den00641871/2020/03/25/llamada_911_204554_suceso_30493810.md
+den00641871/2020/03/25/llamada_911_204554_suceso_30493810.wav
 
 # --- publicables (generado por publicables.py, no editar debajo) ---
 # Oculta: DNI
@@ -59,8 +59,6 @@
 /2020/06/22/correo_harari_adjunta_partida_nacimiento.pdf
 # Oculta: email
 /2020/06/22/correo_harari_querella_formato_word.pdf
-# Oculta: DNI, email, teléfono
-/2020/07/02/policia_diligencia_judicial_217_20.pdf
 # Oculta: email
 /2020/07/03/correo_escrich_reenvia_informe_auxiliar.pdf
 # Oculta: teléfono
@@ -81,3 +79,5 @@
 /2020/07/31/correo_branca_responde_sobre_entrevista.pdf
 # Oculta: email
 /2020/08/01/correo_rozas_reenvia_mail_de_diletto.pdf
+# Oculta: DNI, email, teléfono
+/den00641871/2020/07/02/policia_diligencia_judicial_217_20.pdf
