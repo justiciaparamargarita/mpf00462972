@@ -104,11 +104,11 @@ MD5 de cada archivo de `Piñero/` y su ubicación en el repo.
 | 69495d318832e42a67f55085a30d1943 | FW_ Causa Kuchasky (1).pdf | `2020/06/16/correo_rozas_reenvia_informe_diletto.pdf` |
 | 2df09e36bb140e62fab6bc62d8fffaa0 | Fiscalía PCyF Nro. 20 - Notifica resolución de Juzgado relativa a petición de querella.pdf | `2020/06/22/correo_pide_expediente_digital_para_abogado.pdf` |
 | cd96faf446fb9e8982b7835ca111f2d7 | Fiscalía PCyF Nro. 20 - Notifica resolución s_ caso _HOSPITAL PIÑERO_.pdf | `2020/07/30/correo_fiscalia_notifica_resolucion_caso.pdf` |
-| 9253670f98e87762a8cf9c6c9468b779 | GAP_375825.pdf | `2020/06/29/oficio_policia_consulta_llamados_911.pdf` |
-| 94717ef210eb5a9db0a5e70385768cb0 | GRABADO 25-3-2020 HORA 13.16.30 ABONADO N° 1124020854 SUCESO N° 30489464.wav | `2020/03/25/llamada_911_131630_suceso_30489464.wav` |
-| 9c6a7a246b32d187ec224af97543dd5d | GRABADO 25-3-2020 HORA 20.09.02 ABONADO N° 1124020854 SUCESO N° 30493529.mp3 | `2020/03/25/llamada_911_200902_suceso_30493529.mp3` |
-| 4a21da57b7ef55fde0a1a2fe3dfd6ca4 | GRABADO 25-3-2020 HORA 20.21.58 ABONADO N° 1124020854 SUCESO N° 30493637.wav | `2020/03/25/llamada_911_202158_suceso_30493637.wav` |
-| ee5faeacc099dcc0c9559ccb847b6c1b | GRABADO 25-3-2020 HORA 20.45.54 ABONADO N° 1124020854 SUCESO N° 30493810.wav | `2020/03/25/llamada_911_204554_suceso_30493810.wav` |
+| 9253670f98e87762a8cf9c6c9468b779 | GAP_375825.pdf | `den00641871/2020/06/29/oficio_policia_consulta_llamados_911.pdf` |
+| 94717ef210eb5a9db0a5e70385768cb0 | GRABADO 25-3-2020 HORA 13.16.30 ABONADO N° 1124020854 SUCESO N° 30489464.wav | `den00641871/2020/03/25/llamada_911_131630_suceso_30489464.wav` |
+| 9c6a7a246b32d187ec224af97543dd5d | GRABADO 25-3-2020 HORA 20.09.02 ABONADO N° 1124020854 SUCESO N° 30493529.mp3 | `den00641871/2020/03/25/llamada_911_200902_suceso_30493529.mp3` |
+| 4a21da57b7ef55fde0a1a2fe3dfd6ca4 | GRABADO 25-3-2020 HORA 20.21.58 ABONADO N° 1124020854 SUCESO N° 30493637.wav | `den00641871/2020/03/25/llamada_911_202158_suceso_30493637.wav` |
+| ee5faeacc099dcc0c9559ccb847b6c1b | GRABADO 25-3-2020 HORA 20.45.54 ABONADO N° 1124020854 SUCESO N° 30493810.wav | `den00641871/2020/03/25/llamada_911_204554_suceso_30493810.wav` |
 | 7cdf63408bdb75712dfeccf4c1b8a980 | IF-2020-15059541-GCABA-DGEVYC (1).pdf | `2020/06/09/informe_gedo_espacios_verdes.pdf` |
 | dcd5476ae2c512fd4d6a4421122d9795 | IF-2020-15091431-GCABA-DGEVYC (1).pdf | `2020/06/10/informe_espacios_verdes_ubicacion_cuerpo.pdf` |
 | b20fdb40d0c882fe5e068d0ad724bcf2 | IMG-20200612-WA0006.jpg | excluido |
@@ -146,22 +146,22 @@ MD5 de cada archivo de `Piñero/` y su ubicación en el repo.
 | df0c29485d74d4fd8f826f259a7591d7 | MPF00462972_Proveido_simple_1591968761 (1).pdf | `2020/06/11/proveido_querella_ilegible_y_partida.pdf` |
 | 9c611a731c4b9df2de80e10ad4d37e4d | MPF00462972_Proveido_simple_1592501531.pdf | `2020/06/18/proveido_evaluacion_psiquiatrica_denunciante.pdf` |
 | 8567ee185030e3160d0a3eafbb9fcee6 | MPF00462972_Proveido_simple_1592938095 (1).pdf | `2020/06/23/proveido_informa_ubicacion_del_cuerpo.pdf` |
-| 125516e198c588a0679e9fc8f8ee4c70 | MPF00462972_Proveido_simple_1593440156.pdf | `2020/06/29/proveido_requiere_911.pdf` |
+| 125516e198c588a0679e9fc8f8ee4c70 | MPF00462972_Proveido_simple_1593440156.pdf | `den00641871/2020/06/29/proveido_requiere_911.pdf` |
 | 0bc9845842b3a57a3991f7e1c940d686 | MPF00462972_Proveido_simple_1594643667.pdf | `2020/07/13/proveido_tiene_por_querellante.pdf` |
 | 9f3f5e1d4cc549ac6638a8b57b773a20 | MPF00462972__Art._279.-_L_2303._Recurso_de_Apelación_-_Interposición_-_Juicio_1593463974 (1).pdf | `2020/06/29/fiscalia_reposicion_con_apelacion_subsidio.pdf` |
-| 459e91a05fd8e7fb55b4b5aef9ff082a | MPF462697 HOSP DEAGUDO PIÑEIRO.pdf | `2020/07/02/policia_diligencia_judicial_217_20.pdf` |
+| 459e91a05fd8e7fb55b4b5aef9ff082a | MPF462697 HOSP DEAGUDO PIÑEIRO.pdf | `den00641871/2020/07/02/policia_diligencia_judicial_217_20.pdf` |
 | 6f0b3af0e8c0ad89ab510e7d7ebd5778 | NO-2020-13866937-GCABA-HGAPP (1).pdf | `2020/05/19/nota_hospital_seguimiento_cadaveres.pdf` |
-| 36b6219f709ef88c361f0de300a9ad8f | Nota GAP-375825.pdf | `2020/06/29/respuesta_911_registros_llamados.pdf` |
+| 36b6219f709ef88c361f0de300a9ad8f | Nota GAP-375825.pdf | `den00641871/2020/06/29/respuesta_911_registros_llamados.pdf` |
 | 9e55d59485650c6f12b19d2dade6e319 | Re_ Denuncia MPF 462972 1 (1).pdf | `2020/06/07/correo_sosa_reenvia_a_fiscalia_20.pdf` |
 | e08d1222b853f93f6f7043148b008fba | Re_ SE CONSTITUYE EN QUERELLANTE CAUSA MPF 462972 (1).pdf | `2020/06/12/correo_fiscalia_notifica_proveido.pdf` |
 | c3ebedefbdfe855e4f97226b5acb3523 | Reenv_ informe CIJ Entrevista Kosciuk.pdf | `2020/07/03/correo_escrich_reenvia_informe_auxiliar.pdf` |
 | 585cf44fbb999dc668c2002bec0da3b7 | SE CONSTITUYE EN QUERELLANTE CAUSA MPF 462972 (1).pdf | `2020/06/08/correo_harari_se_constituye_querellante.pdf` |
 | 983a07b04fc81103155bfc19968de820 | SE CONSTITUYEN EN QUERELLANTE  DEF (1).docx | `2020/06/07/querella_constitucion_formato_word.docx` |
-| 61b34317765eca518b331b1418e3b3c0 | SUCESO N° 30489464.pdf | `2020/03/25/informe_suceso_30489464.pdf` |
-| 352e070d3a3db65026726ff469dff174 | SUCESO N° 30493529 - 30493637.pdf | `2020/03/25/informe_suceso_30493529_30493637.pdf` |
-| d2f6d84f32e5096d73728de34b2df695 | SUCESO N° 30493810.pdf | `2020/03/25/informe_suceso_30493810.pdf` |
+| 61b34317765eca518b331b1418e3b3c0 | SUCESO N° 30489464.pdf | `den00641871/2020/03/25/informe_suceso_30489464.pdf` |
+| 352e070d3a3db65026726ff469dff174 | SUCESO N° 30493529 - 30493637.pdf | `den00641871/2020/03/25/informe_suceso_30493529_30493637.pdf` |
+| d2f6d84f32e5096d73728de34b2df695 | SUCESO N° 30493810.pdf | `den00641871/2020/03/25/informe_suceso_30493810.pdf` |
 | 328f6d41655fb24450f9567ea503d642 | S_ Oficio Judicial.- KUCHASKY MARGARITA LEONOR - Caso MPF Nº 462972 e Intervención CIJ Nº 615445__ (3).pdf | `2020/06/10/correo_cementerios_responde_oficio.pdf` |
-| a6712038eca8ff9632fd16429bb6e674 | TRANSCRPCION.pdf | `2020/06/29/transcripcion_llamadas_911.pdf` |
+| a6712038eca8ff9632fd16429bb6e674 | TRANSCRPCION.pdf | `den00641871/2020/06/29/transcripcion_llamadas_911.pdf` |
 | 36744ad11ec4f4562f077cc24698b672 | acta orden de presentación.jpg | `2020/05/18/acta_orden_presentacion_hospital.jpg` |
 | a161def928a961d31fecfad7b00f543a | boletin oficial kuchasky 18-5-20.pdf | excluido |
 | 8517e3e350e7a5f4422ca8969f55b1ff | boletin oficial kuchasky 19-5-20.pdf | excluido |
