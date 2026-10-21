@@ -26,6 +26,7 @@ Mostrar todos 1 archivos adjuntos (454 KB)
 
 descargar
 
+Enviado desde mi smartphone Samsung Galaxy.
 
 -------- Mensaje original -------
 De: Graciela Diletto <diletto.redacted@gmail.com>
@@ -42,3 +43,7 @@ abandono de persona. De la lectura del informe surge a las claras que la sra. kU
 asistencia mèdica en todo momento. Si te parece correcto, luego de que leas en informe; podrìa
 efectuarse una evaluaciòn psiquiatrica para ver cual es el estado de salud mental del hijo. Saludos
 Cordiales Graciela Diletto.
+
+Libre de virus. www.avast.com
+
+https://mail.fiscalias.gob.ar/owa/projection.aspx 1/2

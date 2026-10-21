@@ -95,3 +95,4 @@ Estimado Fiscal, sepa disculpar, pero el web tranfer con datos de la causa me ha
 Dr Carlos Harari
 TOMO 19 FOLIO 646
 
+https://mail.fiscalias.gob.ar/owa/#path=/mail/inbox 1/3

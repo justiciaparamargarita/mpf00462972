@@ -23,4 +23,4 @@ Si alguno de los medicos falseo completamente sus dichos seria
 delito? habría alguna pena? O podia mentir porque no tenia obligacion
 legal de decir la verdad?
 
-
+https://mail.fiscalias.gob.ar/owa/#path=/mail/AAMkAGY4YTcyZDVlLWYwN2UtNGYwZi05Zjc3LWZkMzAwYWFmMWExNAAuAAAAAACthGyJyzk… 1/1

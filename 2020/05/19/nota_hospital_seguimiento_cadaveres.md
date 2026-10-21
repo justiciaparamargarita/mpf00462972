@@ -24,12 +24,13 @@ De mi mayor consideración:
 Por intermedio de la presente cumplo en informar que se ha dado cumplimiento al protocolo para
 seguimiento de cadaveres en la busqueda de deudos de quienes en vida fueran:
 
-[Redacted: datos de MF]
+[persona04] fallecida el 26/04/2020, DNI [dni04],domicilio en [direccion04], CMD
+1363470, pedido de edictos por NO-2020-13595849-GCABA-HGAPP
 
 KUCHASKY, Margarita Leonor fallecida el 28/04/2020, DNI 4214110, domicilio Mozart 610, CMD
 1363469, pedido de edictos por NO-2020-13595849-GCABA-HGAPP
 
-Se adjunta como archivos de trabajo CMD, HOJA DE RUTA, DNI Kuchasky, Huellas de [Redacted: MF], Telefonograma.
+Se adjunta como archivos de trabajo CMD, HOJA DE RUTA, DNI Kuchasky, [Redacted: huellas de MF], Telefonograma.
 
 Sin otro particular saluda atte.
 

@@ -19,6 +19,8 @@ Rodrigo Branca 
 
 Marcado para seguimiento. Completado a las domingo, 02 de agosto de 2020.
 
+Enviado desde mi smartphone Samsung Galaxy.
+
 
 -------- Mensaje original -------De: Graciela Monica Diletto <GDiletto@fiscalias.gob.ar>
 Fecha: 1/8/20 19:32 (GMT-03:00)
@@ -33,6 +35,8 @@ Cómo así tampoco, he sido quien le proporciono mi correo oficial. Es por ello,
 cuarta vez que.continua en esta actitud paso a comunicartelo. Para ver si se pueden realizar las
 medidas legales que pudieran corresponderse.
 Un saludos Cordial, Dra Graciela Diletto
+
+Enviado desde mi Movistar 4G
 
 
 -------- Mensaje original -------De: Nicolas <nhk.web@gmail.com>
@@ -102,4 +106,4 @@ El jue., 16 jul. 2020 a las 1:31, Nicolas (<nhk.web@gmail.com>) escribió:
 > > > hijo. Saludos
 > > > Cordiales Graciela Diletto.
 
-
+https://mail.fiscalias.gob.ar/owa/projection.aspx 1/2
