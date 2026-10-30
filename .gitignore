@@ -33,6 +33,7 @@ den00641871/2020/03/25/llamada_911_204554_suceso_30493810.wav
 # historia_clinica_2022: escaneo KIWI 12/04/2022 (mail e1176). Se publican solo las transcripciones.
 /historia_clinica_2022/*
 !/historia_clinica_2022/transcripciones/
+!/historia_clinica_2022/SHA256SUMS
 
 # --- publicables (generado por publicables.py, no editar debajo) ---
 # Oculta: DNI
