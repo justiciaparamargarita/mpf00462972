@@ -23,8 +23,7 @@ Se da intervención por tareas de investigación. Se hace saber que la
 totalidad del expediente se encuentra escaneado en la intervención CIJ Nro. 61545.
 
 Por otro lado, désele intervención al Cuerpo de Investigaciones
-Judiciales a fin de que personal de dicha dependencia proceda a realizar tareas de investigación tendientes a determinar donde se encuentra actualmente el cuerpo de quien fuera en vida la Sra. Margarita Leonor Kuchasky DNI 4.124.110 [sic] y cuál ha sido el destino que se le ha dado. A tal efecto, se hace saber que la misma falleció en el HOSPITAL PIÑERO luego de haber estado internada
-durante un periodo prolongado de tiempo.
+Judiciales a fin de que personal de dicha dependencia proceda a realizar tareas de investigación tendientes a determinar donde se encuentra actualmente el cuerpo de quien fuera en vida la Sra. Margarita Leonor Kuchasky DNI 4.124.110 y cuál ha sido el destino que se le ha dado. A tal efecto, se hace saber que la misma falleció en el HOSPITAL PIÑERO luego de haber estado internada durante un periodo prolongado de tiempo.
 
 En caso de dar con el miso deberá realizar inmediata consulta telefónica con el Sr. Fiscal." Fdo. Juan Rozas – Fiscal
 
