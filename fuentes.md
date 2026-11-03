@@ -39,7 +39,7 @@ Dos zips con la documentación de la causa. Ambos descomprimen en la carpeta `Pi
 
 ## Historia clínica
 
-Los 7 PDF `historia clinica parte 1..7 (1).pdf` (284, 32, 58, 36, 2, 1 y 12 páginas; 425 en total) están en `historia_clinica/historia_clinica_1..7.pdf` (`_1a` y `_2a`: versiones redacted de `_1` y `_2`, misma paginación). Las 252 páginas útiles están en `historia_clinica/fojas/` y `transcripciones/`; las demás se detallan en `historia_clinica/eliminadas.md`.
+Los 7 PDF `historia clinica parte 1..7 (1).pdf` (284, 32, 58, 36, 2, 1 y 12 páginas; 425 en total) están en `historia_clinica/2020/historia_clinica_1..7.pdf` (`_1a` y `_2a`: versiones redacted de `_1` y `_2`, misma paginación). Las 252 páginas útiles están en `historia_clinica/2020/fojas/`; las transcripciones (`historia_clinica/transcripciones/`) son una por foja, compartidas con el escaneo 2022 (`historia_clinica/2022/`); las páginas sin transcripción de cada copia se detallan en `historia_clinica/sin-transcripcion.md`.
 
 SHA-256 de `historia_clinica_N.pdf`:
 
@@ -172,13 +172,13 @@ MD5 de cada archivo de `Piñero/` y su ubicación en el repo.
 | 1337412e7b094f7b4c3bca9052e171e3 | correo y respuesta denunciante kosciuk.pdf | `2020/07/31/correo_branca_responde_sobre_entrevista.pdf` |
 | e60897d4728895e59540cd2e82c6e8ff | descarga (1).pdf | `2020/06/22/juzgado_21_providencia_sobre_querella_1.pdf` |
 | 65cb6c369dfbeb3c90d05619242b64d5 | descarga.pdf | `2020/06/24/juzgado_21_providencia_sobre_querella_2.pdf` |
-| b6be16a49bda8c3314664ddca17d7bef | historia clinica parte 1 (1).pdf | `historia_clinica/historia_clinica_1.pdf` |
-| 5301fc0c9246297a7d77eeb9079d0ab4 | historia clinica parte 2 (1).pdf | `historia_clinica/historia_clinica_2.pdf` |
-| 80f703f39dc8f455d53a98d011718dbd | historia clinica parte 3 (1).pdf | `historia_clinica/historia_clinica_3.pdf` |
-| 79e229444b46c3cf10e03aa8b02a1084 | historia clinica parte 4 (1).pdf | `historia_clinica/historia_clinica_4.pdf` |
-| 63a302f8be67356e7f4079617298f7c1 | historia clinica parte 5 (1).pdf | `historia_clinica/historia_clinica_5.pdf` |
-| 0a6638f3b4639d9b17d1503b2cc0362a | historia clinica parte 6 (1).pdf | `historia_clinica/historia_clinica_6.pdf` |
-| 84c274c1a97bc471f59f922e7396d703 | historia clinica parte 7 (1).pdf | `historia_clinica/historia_clinica_7.pdf` |
+| b6be16a49bda8c3314664ddca17d7bef | historia clinica parte 1 (1).pdf | `historia_clinica/2020/historia_clinica_1.pdf` |
+| 5301fc0c9246297a7d77eeb9079d0ab4 | historia clinica parte 2 (1).pdf | `historia_clinica/2020/historia_clinica_2.pdf` |
+| 80f703f39dc8f455d53a98d011718dbd | historia clinica parte 3 (1).pdf | `historia_clinica/2020/historia_clinica_3.pdf` |
+| 79e229444b46c3cf10e03aa8b02a1084 | historia clinica parte 4 (1).pdf | `historia_clinica/2020/historia_clinica_4.pdf` |
+| 63a302f8be67356e7f4079617298f7c1 | historia clinica parte 5 (1).pdf | `historia_clinica/2020/historia_clinica_5.pdf` |
+| 0a6638f3b4639d9b17d1503b2cc0362a | historia clinica parte 6 (1).pdf | `historia_clinica/2020/historia_clinica_6.pdf` |
+| 84c274c1a97bc471f59f922e7396d703 | historia clinica parte 7 (1).pdf | `historia_clinica/2020/historia_clinica_7.pdf` |
 | e8ee0bbdfb0eb82fe1c91e4c6a2501f6 | informe (1) (1).pdf | `2020/06/10/informe_cij_tareas_investigacion.pdf` |
 | a61061f8a197072097f61d18e6b1c2ad | informe (2).pdf | `2020/06/03/informe_cij_orden_presentacion_hospital.pdf` |
 | 5f15267098c6580c2f85d3ac4ee94fb7 | insert_notificacion18791589411838.pdf | `2020/05/13/cedula_juzgado_21_resolucion_allanamiento.pdf` |

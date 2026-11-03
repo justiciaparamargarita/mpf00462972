@@ -3,22 +3,22 @@
 # "# publicar: /ruta - motivo" para lo que el script bloquearia pero se publica igual.
 
 # versiones sin tachar; se publican las redacted historia_clinica_1a y _2a
-/historia_clinica/historia_clinica_1.pdf
-/historia_clinica/historia_clinica_2.pdf
+/historia_clinica/2020/historia_clinica_1.pdf
+/historia_clinica/2020/historia_clinica_2.pdf
 /2020/05/05/denuncia_penal_escaneo.pdf
 
-# publicar: /historia_clinica/historia_clinica_1a.pdf - version redacted de _1
-# publicar: /historia_clinica/historia_clinica_2a.pdf - version redacted de _2
-# publicar: /historia_clinica/historia_clinica_3.pdf - pags. 317-425 sin datos anonimizados
-# publicar: /historia_clinica/historia_clinica_4.pdf - idem
-# publicar: /historia_clinica/historia_clinica_5.pdf - idem
-# publicar: /historia_clinica/historia_clinica_6.pdf - idem
-# publicar: /historia_clinica/historia_clinica_7.pdf - idem
-# publicar: /historia_clinica/fojas/001.webp - [numero18]/[numero19], telefonos viejos de la familia
-# publicar: /historia_clinica/fojas/015.webp - [numero19]
-# publicar: /historia_clinica/fojas/018-019.webp - [numero19]
-# publicar: /historia_clinica/fojas/023.webp - [numero19]
-# publicar: /historia_clinica/fojas/034.webp - [numero19]
+# publicar: /historia_clinica/2020/historia_clinica_1a.pdf - version redacted de _1
+# publicar: /historia_clinica/2020/historia_clinica_2a.pdf - version redacted de _2
+# publicar: /historia_clinica/2020/historia_clinica_3.pdf - pags. 317-425 sin datos anonimizados
+# publicar: /historia_clinica/2020/historia_clinica_4.pdf - idem
+# publicar: /historia_clinica/2020/historia_clinica_5.pdf - idem
+# publicar: /historia_clinica/2020/historia_clinica_6.pdf - idem
+# publicar: /historia_clinica/2020/historia_clinica_7.pdf - idem
+# publicar: /historia_clinica/2020/fojas/001.webp - [numero18]/[numero19], telefonos viejos de la familia
+# publicar: /historia_clinica/2020/fojas/015.webp - [numero19]
+# publicar: /historia_clinica/2020/fojas/018-019.webp - [numero19]
+# publicar: /historia_clinica/2020/fojas/023.webp - [numero19]
+# publicar: /historia_clinica/2020/fojas/034.webp - [numero19]
 
 # Audios que ya tienen sus propias transcripciones oficiales (pdf con su md); el md de cada audio casi no tiene contenido.
 den00641871/2020/03/25/llamada_911_131630_suceso_30489464.md
@@ -30,11 +30,10 @@ den00641871/2020/03/25/llamada_911_202158_suceso_30493637.wav
 den00641871/2020/03/25/llamada_911_204554_suceso_30493810.md
 den00641871/2020/03/25/llamada_911_204554_suceso_30493810.wav
 
-# historia_clinica_2022: escaneo KIWI 12/04/2022 (mail e1176). Se publican solo las transcripciones.
-/historia_clinica_2022/*
-!/historia_clinica_2022/transcripciones/
-!/historia_clinica_2022/paginas/
-!/historia_clinica_2022/SHA256SUMS
+# historia_clinica/2022: escaneo KIWI 12/04/2022 (mail e1176). Se publican las páginas y SHA256SUMS; las transcripciones son las de historia_clinica/transcripciones.
+/historia_clinica/2022/*
+!/historia_clinica/2022/paginas/
+!/historia_clinica/2022/SHA256SUMS
 
 # --- publicables (generado por publicables.py, no editar debajo) ---
 # Oculta: DNI
@@ -86,400 +85,400 @@ den00641871/2020/03/25/llamada_911_204554_suceso_30493810.wav
 # Oculta: DNI, email, teléfono
 /den00641871/2020/07/02/policia_diligencia_judicial_217_20.pdf
 # sin .md
-/historia_clinica_2022/01-fiscalia-20220412-12292118.e1176.pdf
+/historia_clinica/2022/01-fiscalia-20220412-12292118.e1176.pdf
 # sin .md
-/historia_clinica_2022/02-fiscalia-20220412-12320515.e1176.pdf
+/historia_clinica/2022/02-fiscalia-20220412-12320515.e1176.pdf
 # sin .md
-/historia_clinica_2022/03-fiscalia-20220412-12374262.e1176.pdf
+/historia_clinica/2022/03-fiscalia-20220412-12374262.e1176.pdf
 # sin .md
-/historia_clinica_2022/04-fiscalia-20220412-12415514.e1176.pdf
+/historia_clinica/2022/04-fiscalia-20220412-12415514.e1176.pdf
 # sin .md
-/historia_clinica_2022/05-fiscalia-20220412-12462384.e1176.pdf
+/historia_clinica/2022/05-fiscalia-20220412-12462384.e1176.pdf
 # sin .md
-/historia_clinica_2022/06-fiscalia-20220412-12544818.e1176.pdf
+/historia_clinica/2022/06-fiscalia-20220412-12544818.e1176.pdf
 # sin .md
-/historia_clinica_2022/07-fiscalia-20220412-12565936.e1176.pdf
+/historia_clinica/2022/07-fiscalia-20220412-12565936.e1176.pdf
 # sin .md
-/historia_clinica_2022/08-fiscalia-20220412-12595793.e1176.pdf
+/historia_clinica/2022/08-fiscalia-20220412-12595793.e1176.pdf
 # sin .md
-/historia_clinica_2022/09-fiscalia-20220412-13054089.e1176.pdf
+/historia_clinica/2022/09-fiscalia-20220412-13054089.e1176.pdf
 # sin .md
-/historia_clinica_2022/10-fiscalia-20220412-13073923.e1176.pdf
+/historia_clinica/2022/10-fiscalia-20220412-13073923.e1176.pdf
 # sin .md
-/historia_clinica_2022/11-fiscalia-20220412-13144495.e1176.pdf
+/historia_clinica/2022/11-fiscalia-20220412-13144495.e1176.pdf
 # Oculta: teléfono
-/historia_clinica_2022/paginas/001.01-001.webp
+/historia_clinica/2022/paginas/001.01-001.webp
 # sin .md
-/historia_clinica_2022/paginas/001r.01-002.webp
+/historia_clinica/2022/paginas/001r.01-002.webp
 # sin .md
-/historia_clinica_2022/paginas/002r.01-004.webp
+/historia_clinica/2022/paginas/002r.01-004.webp
 # sin .md
-/historia_clinica_2022/paginas/003r.01-006.webp
+/historia_clinica/2022/paginas/003r.01-006.webp
 # sin .md
-/historia_clinica_2022/paginas/004r.01-008.webp
+/historia_clinica/2022/paginas/004r.01-008.webp
 # sin .md
-/historia_clinica_2022/paginas/005r.01-010.webp
+/historia_clinica/2022/paginas/005r.01-010.webp
 # sin .md
-/historia_clinica_2022/paginas/006r.01-012.webp
+/historia_clinica/2022/paginas/006r.01-012.webp
 # sin .md
-/historia_clinica_2022/paginas/007r.01-014.webp
+/historia_clinica/2022/paginas/007r.01-014.webp
 # sin .md
-/historia_clinica_2022/paginas/008r.01-016.webp
+/historia_clinica/2022/paginas/008r.01-016.webp
 # sin .md
-/historia_clinica_2022/paginas/009r.01-018.webp
+/historia_clinica/2022/paginas/009r.01-018.webp
 # sin .md
-/historia_clinica_2022/paginas/010r.01-020.webp
+/historia_clinica/2022/paginas/010r.01-020.webp
 # sin .md
-/historia_clinica_2022/paginas/011r.01-022.webp
+/historia_clinica/2022/paginas/011r.01-022.webp
 # sin .md
-/historia_clinica_2022/paginas/012r.01-024.webp
+/historia_clinica/2022/paginas/012r.01-024.webp
 # sin .md
-/historia_clinica_2022/paginas/013r.01-026.webp
+/historia_clinica/2022/paginas/013r.01-026.webp
 # sin .md
-/historia_clinica_2022/paginas/014r.01-028.webp
+/historia_clinica/2022/paginas/014r.01-028.webp
 # Oculta: teléfono
-/historia_clinica_2022/paginas/015.01-029.webp
+/historia_clinica/2022/paginas/015.01-029.webp
 # sin .md
-/historia_clinica_2022/paginas/015r.01-030.webp
+/historia_clinica/2022/paginas/015r.01-030.webp
 # sin .md
-/historia_clinica_2022/paginas/016r.01-032.webp
+/historia_clinica/2022/paginas/016r.01-032.webp
 # sin .md
-/historia_clinica_2022/paginas/017r.01-034.webp
+/historia_clinica/2022/paginas/017r.01-034.webp
 # Oculta: teléfono
-/historia_clinica_2022/paginas/018.02-001.webp
+/historia_clinica/2022/paginas/018.02-001.webp
 # sin .md
-/historia_clinica_2022/paginas/018r.02-002.webp
+/historia_clinica/2022/paginas/018r.02-002.webp
 # sin .md
-/historia_clinica_2022/paginas/019r.02-004.webp
+/historia_clinica/2022/paginas/019r.02-004.webp
 # sin .md
-/historia_clinica_2022/paginas/020r.02-006.webp
+/historia_clinica/2022/paginas/020r.02-006.webp
 # sin .md
-/historia_clinica_2022/paginas/021r.02-008.webp
+/historia_clinica/2022/paginas/021r.02-008.webp
 # sin .md
-/historia_clinica_2022/paginas/022r.02-010.webp
+/historia_clinica/2022/paginas/022r.02-010.webp
 # Oculta: teléfono
-/historia_clinica_2022/paginas/023.02-011.webp
+/historia_clinica/2022/paginas/023.02-011.webp
 # sin .md
-/historia_clinica_2022/paginas/023r.02-012.webp
+/historia_clinica/2022/paginas/023r.02-012.webp
 # Oculta: teléfono
-/historia_clinica_2022/paginas/024.02-013.webp
+/historia_clinica/2022/paginas/024.02-013.webp
 # sin .md
-/historia_clinica_2022/paginas/024r.02-014.webp
+/historia_clinica/2022/paginas/024r.02-014.webp
 # sin .md
-/historia_clinica_2022/paginas/025r.02-016.webp
+/historia_clinica/2022/paginas/025r.02-016.webp
 # sin .md
-/historia_clinica_2022/paginas/026r.02-018.webp
+/historia_clinica/2022/paginas/026r.02-018.webp
 # sin .md
-/historia_clinica_2022/paginas/027r.02-020.webp
+/historia_clinica/2022/paginas/027r.02-020.webp
 # sin .md
-/historia_clinica_2022/paginas/028r.02-022.webp
+/historia_clinica/2022/paginas/028r.02-022.webp
 # sin .md
-/historia_clinica_2022/paginas/029r.02-024.webp
+/historia_clinica/2022/paginas/029r.02-024.webp
 # sin .md
-/historia_clinica_2022/paginas/030r.02-026.webp
+/historia_clinica/2022/paginas/030r.02-026.webp
 # sin .md
-/historia_clinica_2022/paginas/031r.02-028.webp
+/historia_clinica/2022/paginas/031r.02-028.webp
 # sin .md
-/historia_clinica_2022/paginas/032r.02-030.webp
+/historia_clinica/2022/paginas/032r.02-030.webp
 # sin .md
-/historia_clinica_2022/paginas/033r.02-032.webp
+/historia_clinica/2022/paginas/033r.02-032.webp
 # Oculta: teléfono
-/historia_clinica_2022/paginas/034.02-033.webp
+/historia_clinica/2022/paginas/034.02-033.webp
 # sin .md
-/historia_clinica_2022/paginas/035r.02-036.webp
+/historia_clinica/2022/paginas/035r.02-036.webp
 # sin .md
-/historia_clinica_2022/paginas/036r.02-038.webp
+/historia_clinica/2022/paginas/036r.02-038.webp
 # sin .md
-/historia_clinica_2022/paginas/037r.02-040.webp
+/historia_clinica/2022/paginas/037r.02-040.webp
 # sin .md
-/historia_clinica_2022/paginas/038r.02-042.webp
+/historia_clinica/2022/paginas/038r.02-042.webp
 # sin .md
-/historia_clinica_2022/paginas/039r.02-044.webp
+/historia_clinica/2022/paginas/039r.02-044.webp
 # sin .md
-/historia_clinica_2022/paginas/040r.02-046.webp
+/historia_clinica/2022/paginas/040r.02-046.webp
 # sin .md
-/historia_clinica_2022/paginas/042r.03-004.webp
+/historia_clinica/2022/paginas/042r.03-004.webp
 # sin .md
-/historia_clinica_2022/paginas/043r.03-006.webp
+/historia_clinica/2022/paginas/043r.03-006.webp
 # sin .md
-/historia_clinica_2022/paginas/044r.03-008.webp
+/historia_clinica/2022/paginas/044r.03-008.webp
 # sin .md
-/historia_clinica_2022/paginas/045r.03-010.webp
+/historia_clinica/2022/paginas/045r.03-010.webp
 # sin .md
-/historia_clinica_2022/paginas/046r.03-012.webp
+/historia_clinica/2022/paginas/046r.03-012.webp
 # sin .md
-/historia_clinica_2022/paginas/047r.03-014.webp
+/historia_clinica/2022/paginas/047r.03-014.webp
 # sin .md
-/historia_clinica_2022/paginas/048r.03-016.webp
+/historia_clinica/2022/paginas/048r.03-016.webp
 # sin .md
-/historia_clinica_2022/paginas/049r.03-018.webp
+/historia_clinica/2022/paginas/049r.03-018.webp
 # sin .md
-/historia_clinica_2022/paginas/050r.03-020.webp
+/historia_clinica/2022/paginas/050r.03-020.webp
 # sin .md
-/historia_clinica_2022/paginas/051r.03-022.webp
+/historia_clinica/2022/paginas/051r.03-022.webp
 # sin .md
-/historia_clinica_2022/paginas/052r.03-024.webp
+/historia_clinica/2022/paginas/052r.03-024.webp
 # sin .md
-/historia_clinica_2022/paginas/053r.03-026.webp
+/historia_clinica/2022/paginas/053r.03-026.webp
 # sin .md
-/historia_clinica_2022/paginas/054r.03-028.webp
+/historia_clinica/2022/paginas/054r.03-028.webp
 # sin .md
-/historia_clinica_2022/paginas/055r.03-030.webp
+/historia_clinica/2022/paginas/055r.03-030.webp
 # sin .md
-/historia_clinica_2022/paginas/056r.03-032.webp
+/historia_clinica/2022/paginas/056r.03-032.webp
 # sin .md
-/historia_clinica_2022/paginas/057r.03-034.webp
+/historia_clinica/2022/paginas/057r.03-034.webp
 # sin .md
-/historia_clinica_2022/paginas/058r.03-036.webp
+/historia_clinica/2022/paginas/058r.03-036.webp
 # sin .md
-/historia_clinica_2022/paginas/059r.03-038.webp
+/historia_clinica/2022/paginas/059r.03-038.webp
 # sin .md
-/historia_clinica_2022/paginas/060r.03-040.webp
+/historia_clinica/2022/paginas/060r.03-040.webp
 # sin .md
-/historia_clinica_2022/paginas/061r.03-042.webp
+/historia_clinica/2022/paginas/061r.03-042.webp
 # sin .md
-/historia_clinica_2022/paginas/062r.03-044.webp
+/historia_clinica/2022/paginas/062r.03-044.webp
 # sin .md
-/historia_clinica_2022/paginas/063r.03-046.webp
+/historia_clinica/2022/paginas/063r.03-046.webp
 # sin .md
-/historia_clinica_2022/paginas/064r.03-048.webp
+/historia_clinica/2022/paginas/064r.03-048.webp
 # sin .md
-/historia_clinica_2022/paginas/065r.03-050.webp
+/historia_clinica/2022/paginas/065r.03-050.webp
 # sin .md
-/historia_clinica_2022/paginas/066r.03-052.webp
+/historia_clinica/2022/paginas/066r.03-052.webp
 # sin .md
-/historia_clinica_2022/paginas/067r.03-054.webp
+/historia_clinica/2022/paginas/067r.03-054.webp
 # sin .md
-/historia_clinica_2022/paginas/068r.04-002.webp
+/historia_clinica/2022/paginas/068r.04-002.webp
 # sin .md
-/historia_clinica_2022/paginas/069r.04-004.webp
+/historia_clinica/2022/paginas/069r.04-004.webp
 # sin .md
-/historia_clinica_2022/paginas/070r.04-006.webp
+/historia_clinica/2022/paginas/070r.04-006.webp
 # sin .md
-/historia_clinica_2022/paginas/071r.04-008.webp
+/historia_clinica/2022/paginas/071r.04-008.webp
 # sin .md
-/historia_clinica_2022/paginas/073r.04-012.webp
+/historia_clinica/2022/paginas/073r.04-012.webp
 # sin .md
-/historia_clinica_2022/paginas/074r.04-014.webp
+/historia_clinica/2022/paginas/074r.04-014.webp
 # sin .md
-/historia_clinica_2022/paginas/076r.04-018.webp
+/historia_clinica/2022/paginas/076r.04-018.webp
 # sin .md
-/historia_clinica_2022/paginas/078r.04-022.webp
+/historia_clinica/2022/paginas/078r.04-022.webp
 # sin .md
-/historia_clinica_2022/paginas/079r.04-024.webp
+/historia_clinica/2022/paginas/079r.04-024.webp
 # sin .md
-/historia_clinica_2022/paginas/080r.04-026.webp
+/historia_clinica/2022/paginas/080r.04-026.webp
 # sin .md
-/historia_clinica_2022/paginas/081r.04-028.webp
+/historia_clinica/2022/paginas/081r.04-028.webp
 # sin .md
-/historia_clinica_2022/paginas/082r.04-030.webp
+/historia_clinica/2022/paginas/082r.04-030.webp
 # sin .md
-/historia_clinica_2022/paginas/083r.04-032.webp
+/historia_clinica/2022/paginas/083r.04-032.webp
 # sin .md
-/historia_clinica_2022/paginas/085r.04-036.webp
+/historia_clinica/2022/paginas/085r.04-036.webp
 # sin .md
-/historia_clinica_2022/paginas/086r.04-038.webp
+/historia_clinica/2022/paginas/086r.04-038.webp
 # sin .md
-/historia_clinica_2022/paginas/087r.04-040.webp
+/historia_clinica/2022/paginas/087r.04-040.webp
 # sin .md
-/historia_clinica_2022/paginas/088r.04-042.webp
+/historia_clinica/2022/paginas/088r.04-042.webp
 # sin .md
-/historia_clinica_2022/paginas/089r.04-044.webp
+/historia_clinica/2022/paginas/089r.04-044.webp
 # sin .md
-/historia_clinica_2022/paginas/090r.04-046.webp
+/historia_clinica/2022/paginas/090r.04-046.webp
 # sin .md
-/historia_clinica_2022/paginas/091r.05-002.webp
+/historia_clinica/2022/paginas/091r.05-002.webp
 # sin .md
-/historia_clinica_2022/paginas/093r.05-006.webp
+/historia_clinica/2022/paginas/093r.05-006.webp
 # sin .md
-/historia_clinica_2022/paginas/094r.05-008.webp
+/historia_clinica/2022/paginas/094r.05-008.webp
 # sin .md
-/historia_clinica_2022/paginas/095r.05-010.webp
+/historia_clinica/2022/paginas/095r.05-010.webp
 # sin .md
-/historia_clinica_2022/paginas/096r.05-012.webp
+/historia_clinica/2022/paginas/096r.05-012.webp
 # sin .md
-/historia_clinica_2022/paginas/097r.05-014.webp
+/historia_clinica/2022/paginas/097r.05-014.webp
 # sin .md
-/historia_clinica_2022/paginas/098r.05-016.webp
+/historia_clinica/2022/paginas/098r.05-016.webp
 # sin .md
-/historia_clinica_2022/paginas/099r.05-018.webp
+/historia_clinica/2022/paginas/099r.05-018.webp
 # sin .md
-/historia_clinica_2022/paginas/100r.05-020.webp
+/historia_clinica/2022/paginas/100r.05-020.webp
 # sin .md
-/historia_clinica_2022/paginas/101r.05-022.webp
+/historia_clinica/2022/paginas/101r.05-022.webp
 # sin .md
-/historia_clinica_2022/paginas/103r.05-026.webp
+/historia_clinica/2022/paginas/103r.05-026.webp
 # sin .md
-/historia_clinica_2022/paginas/104r.05-028.webp
+/historia_clinica/2022/paginas/104r.05-028.webp
 # sin .md
-/historia_clinica_2022/paginas/105r.05-030.webp
+/historia_clinica/2022/paginas/105r.05-030.webp
 # sin .md
-/historia_clinica_2022/paginas/106r.05-032.webp
+/historia_clinica/2022/paginas/106r.05-032.webp
 # sin .md
-/historia_clinica_2022/paginas/107r.05-034.webp
+/historia_clinica/2022/paginas/107r.05-034.webp
 # sin .md
-/historia_clinica_2022/paginas/108r.05-036.webp
+/historia_clinica/2022/paginas/108r.05-036.webp
 # sin .md
-/historia_clinica_2022/paginas/109r.05-038.webp
+/historia_clinica/2022/paginas/109r.05-038.webp
 # sin .md
-/historia_clinica_2022/paginas/110r.05-040.webp
+/historia_clinica/2022/paginas/110r.05-040.webp
 # sin .md
-/historia_clinica_2022/paginas/111r.05-042.webp
+/historia_clinica/2022/paginas/111r.05-042.webp
 # sin .md
-/historia_clinica_2022/paginas/112r.05-044.webp
+/historia_clinica/2022/paginas/112r.05-044.webp
 # sin .md
-/historia_clinica_2022/paginas/113r.05-046.webp
+/historia_clinica/2022/paginas/113r.05-046.webp
 # sin .md
-/historia_clinica_2022/paginas/114r.05-048.webp
+/historia_clinica/2022/paginas/114r.05-048.webp
 # sin .md
-/historia_clinica_2022/paginas/115r.05-050.webp
+/historia_clinica/2022/paginas/115r.05-050.webp
 # sin .md
-/historia_clinica_2022/paginas/116r.05-052.webp
+/historia_clinica/2022/paginas/116r.05-052.webp
 # sin .md
-/historia_clinica_2022/paginas/117r.05-054.webp
+/historia_clinica/2022/paginas/117r.05-054.webp
 # sin .md
-/historia_clinica_2022/paginas/118r.05-056.webp
+/historia_clinica/2022/paginas/118r.05-056.webp
 # sin .md
-/historia_clinica_2022/paginas/119r.05-058.webp
+/historia_clinica/2022/paginas/119r.05-058.webp
 # sin .md
-/historia_clinica_2022/paginas/120r.05-060.webp
+/historia_clinica/2022/paginas/120r.05-060.webp
 # sin .md
-/historia_clinica_2022/paginas/121r.06-002.webp
+/historia_clinica/2022/paginas/121r.06-002.webp
 # sin .md
-/historia_clinica_2022/paginas/122r.06-004.webp
+/historia_clinica/2022/paginas/122r.06-004.webp
 # sin .md
-/historia_clinica_2022/paginas/124r.06-008.webp
+/historia_clinica/2022/paginas/124r.06-008.webp
 # sin .md
-/historia_clinica_2022/paginas/125r.06-010.webp
+/historia_clinica/2022/paginas/125r.06-010.webp
 # sin .md
-/historia_clinica_2022/paginas/126r.06-012.webp
+/historia_clinica/2022/paginas/126r.06-012.webp
 # sin .md
-/historia_clinica_2022/paginas/127r.06-014.webp
+/historia_clinica/2022/paginas/127r.06-014.webp
 # sin .md
-/historia_clinica_2022/paginas/128r.06-016.webp
+/historia_clinica/2022/paginas/128r.06-016.webp
 # sin .md
-/historia_clinica_2022/paginas/129r.06-018.webp
+/historia_clinica/2022/paginas/129r.06-018.webp
 # sin .md
-/historia_clinica_2022/paginas/130r.06-020.webp
+/historia_clinica/2022/paginas/130r.06-020.webp
 # sin .md
-/historia_clinica_2022/paginas/131r.06-022.webp
+/historia_clinica/2022/paginas/131r.06-022.webp
 # sin .md
-/historia_clinica_2022/paginas/132r.06-024.webp
+/historia_clinica/2022/paginas/132r.06-024.webp
 # sin .md
-/historia_clinica_2022/paginas/133r.06-026.webp
+/historia_clinica/2022/paginas/133r.06-026.webp
 # sin .md
-/historia_clinica_2022/paginas/134r.06-028.webp
+/historia_clinica/2022/paginas/134r.06-028.webp
 # sin .md
-/historia_clinica_2022/paginas/135r.06-030.webp
+/historia_clinica/2022/paginas/135r.06-030.webp
 # sin .md
-/historia_clinica_2022/paginas/136r.06-032.webp
+/historia_clinica/2022/paginas/136r.06-032.webp
 # sin .md
-/historia_clinica_2022/paginas/137r.06-034.webp
+/historia_clinica/2022/paginas/137r.06-034.webp
 # sin .md
-/historia_clinica_2022/paginas/138r.06-036.webp
+/historia_clinica/2022/paginas/138r.06-036.webp
 # sin .md
-/historia_clinica_2022/paginas/139r.06-038.webp
+/historia_clinica/2022/paginas/139r.06-038.webp
 # sin .md
-/historia_clinica_2022/paginas/140r.06-040.webp
+/historia_clinica/2022/paginas/140r.06-040.webp
 # sin .md
-/historia_clinica_2022/paginas/141r.06-042.webp
+/historia_clinica/2022/paginas/141r.06-042.webp
 # sin .md
-/historia_clinica_2022/paginas/142r.06-044.webp
+/historia_clinica/2022/paginas/142r.06-044.webp
 # sin .md
-/historia_clinica_2022/paginas/143r.06-046.webp
+/historia_clinica/2022/paginas/143r.06-046.webp
 # sin .md
-/historia_clinica_2022/paginas/145r.06-050.webp
+/historia_clinica/2022/paginas/145r.06-050.webp
 # sin .md
-/historia_clinica_2022/paginas/146r.06-052.webp
+/historia_clinica/2022/paginas/146r.06-052.webp
 # sin .md
-/historia_clinica_2022/paginas/147r.06-054.webp
+/historia_clinica/2022/paginas/147r.06-054.webp
 # sin .md
-/historia_clinica_2022/paginas/148r.06-056.webp
+/historia_clinica/2022/paginas/148r.06-056.webp
 # sin .md
-/historia_clinica_2022/paginas/149r.06-058.webp
+/historia_clinica/2022/paginas/149r.06-058.webp
 # sin .md
-/historia_clinica_2022/paginas/150r.06-060.webp
+/historia_clinica/2022/paginas/150r.06-060.webp
 # sin .md
-/historia_clinica_2022/paginas/152r.07-004.webp
+/historia_clinica/2022/paginas/152r.07-004.webp
 # sin .md
-/historia_clinica_2022/paginas/153r.07-006.webp
+/historia_clinica/2022/paginas/153r.07-006.webp
 # sin .md
-/historia_clinica_2022/paginas/155r.07-010.webp
+/historia_clinica/2022/paginas/155r.07-010.webp
 # sin .md
-/historia_clinica_2022/paginas/158r.07-016.webp
+/historia_clinica/2022/paginas/158r.07-016.webp
 # sin .md
-/historia_clinica_2022/paginas/160r.07-020.webp
+/historia_clinica/2022/paginas/160r.07-020.webp
 # sin .md
-/historia_clinica_2022/paginas/161r.08-002.webp
+/historia_clinica/2022/paginas/161r.08-002.webp
 # sin .md
-/historia_clinica_2022/paginas/162r.08-004.webp
+/historia_clinica/2022/paginas/162r.08-004.webp
 # sin .md
-/historia_clinica_2022/paginas/163bisr.08-008.webp
+/historia_clinica/2022/paginas/163bisr.08-008.webp
 # sin .md
-/historia_clinica_2022/paginas/163r.08-006.webp
+/historia_clinica/2022/paginas/163r.08-006.webp
 # sin .md
-/historia_clinica_2022/paginas/166r.08-014.webp
+/historia_clinica/2022/paginas/166r.08-014.webp
 # sin .md
-/historia_clinica_2022/paginas/168r.08-018.webp
+/historia_clinica/2022/paginas/168r.08-018.webp
 # sin .md
-/historia_clinica_2022/paginas/169r.08-020.webp
+/historia_clinica/2022/paginas/169r.08-020.webp
 # sin .md
-/historia_clinica_2022/paginas/170r.08-022.webp
+/historia_clinica/2022/paginas/170r.08-022.webp
 # sin .md
-/historia_clinica_2022/paginas/171r.09-002.webp
+/historia_clinica/2022/paginas/171r.09-002.webp
 # sin .md
-/historia_clinica_2022/paginas/172r.09-004.webp
+/historia_clinica/2022/paginas/172r.09-004.webp
 # sin .md
-/historia_clinica_2022/paginas/173r.09-006.webp
+/historia_clinica/2022/paginas/173r.09-006.webp
 # sin .md
-/historia_clinica_2022/paginas/174r.09-008.webp
+/historia_clinica/2022/paginas/174r.09-008.webp
 # sin .md
-/historia_clinica_2022/paginas/175r.09-010.webp
+/historia_clinica/2022/paginas/175r.09-010.webp
 # sin .md
-/historia_clinica_2022/paginas/177r.09-014.webp
+/historia_clinica/2022/paginas/177r.09-014.webp
 # sin .md
-/historia_clinica_2022/paginas/178r.09-016.webp
+/historia_clinica/2022/paginas/178r.09-016.webp
 # sin .md
-/historia_clinica_2022/paginas/179r.09-018.webp
+/historia_clinica/2022/paginas/179r.09-018.webp
 # sin .md
-/historia_clinica_2022/paginas/180r.09-020.webp
+/historia_clinica/2022/paginas/180r.09-020.webp
 # sin .md
-/historia_clinica_2022/paginas/181r.09-022.webp
+/historia_clinica/2022/paginas/181r.09-022.webp
 # sin .md
-/historia_clinica_2022/paginas/182r.09-024.webp
+/historia_clinica/2022/paginas/182r.09-024.webp
 # sin .md
-/historia_clinica_2022/paginas/183r.09-026.webp
+/historia_clinica/2022/paginas/183r.09-026.webp
 # sin .md
-/historia_clinica_2022/paginas/184r.09-028.webp
+/historia_clinica/2022/paginas/184r.09-028.webp
 # sin .md
-/historia_clinica_2022/paginas/185r.09-030.webp
+/historia_clinica/2022/paginas/185r.09-030.webp
 # sin .md
-/historia_clinica_2022/paginas/186r.09-032.webp
+/historia_clinica/2022/paginas/186r.09-032.webp
 # sin .md
-/historia_clinica_2022/paginas/188r.09-036.webp
+/historia_clinica/2022/paginas/188r.09-036.webp
 # sin .md
-/historia_clinica_2022/paginas/190r.09-040.webp
+/historia_clinica/2022/paginas/190r.09-040.webp
 # sin .md
-/historia_clinica_2022/paginas/192r.10-004.webp
+/historia_clinica/2022/paginas/192r.10-004.webp
 # sin .md
-/historia_clinica_2022/paginas/193r.10-006.webp
+/historia_clinica/2022/paginas/193r.10-006.webp
 # sin .md
-/historia_clinica_2022/paginas/194r.10-008.webp
+/historia_clinica/2022/paginas/194r.10-008.webp
 # sin .md
-/historia_clinica_2022/paginas/195r.10-010.webp
+/historia_clinica/2022/paginas/195r.10-010.webp
 # sin .md
-/historia_clinica_2022/paginas/196r.10-012.webp
+/historia_clinica/2022/paginas/196r.10-012.webp
 # sin .md
-/historia_clinica_2022/paginas/197r.10-014.webp
+/historia_clinica/2022/paginas/197r.10-014.webp
 # sin .md
-/historia_clinica_2022/paginas/198r.10-016.webp
+/historia_clinica/2022/paginas/198r.10-016.webp
 # sin .md
-/historia_clinica_2022/paginas/199r.10-018.webp
+/historia_clinica/2022/paginas/199r.10-018.webp
 # sin .md
-/historia_clinica_2022/paginas/200r.10-020.webp
+/historia_clinica/2022/paginas/200r.10-020.webp
 # sin .md
-/historia_clinica_2022/paginas/201r.10-022.webp
+/historia_clinica/2022/paginas/201r.10-022.webp
 # sin .md
-/historia_clinica_2022/paginas/202r.10-024.webp
+/historia_clinica/2022/paginas/202r.10-024.webp
 # sin .md
-/historia_clinica_2022/paginas/205r.10-030.webp
+/historia_clinica/2022/paginas/205r.10-030.webp
