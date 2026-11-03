@@ -55,7 +55,7 @@ Dra. Margarita Gaset, DNI: [dni01], Matricula Nacional no 57475,
 domicilio: [direccion01] de esta ciudad y tel: [telefono01]. En
 relación al hecho investigado manifestó:
 - Que ella es la Jefa del Departamento de Medicina.
-- Que durante el tiempo que la Sra. Kuchasky permaneció internada, la actitud del hijo de la internada fue siempre agresiva y demandante, lo cual era reclamado a ella por el personal médico. 
+- Que durante el tiempo que la Sra. Kuchasky permaneció internada, la actitud del hijo de la internada fue siempre agresiva y demandante, lo cual era reclamado a ella por el personal médico.
 
 En relación a las quejas del personal médico, refiere que hacían referencia a órdenes de cuidado y cuestionamientos en el tratamiento que tenía la madre, a lo que se hacía caso omiso porque el personal médico es el idónea para tomar las medidas de salud necesarias y acordes a la patología que el paciente tenga.
 - Que tenía conocimiento de que en ocasiones el Sr. Kosciuck proporcionó medicamentos no proporcionados por el hospital a su madre, de lo cual fue puesto en conocimiento de que no debe hacerlo, a lo que manifestaba entenderlo, pero luego volvía a incurrir en ese error. Que el médico que detectó esa conducta fue el Dr. Sebastián Gervasoni.
@@ -72,7 +72,7 @@ Dr. Sebastián Gervasoni, DNI: [dni02], Matricula no 152092, domicilio:
 al hecho investigado manifestó:
 
 - Que él como profesional, tenía como paciente a la Sra. Leonor Kuchasky y durante el tiempo que permaneció internada era visitada por el hijo, el cual en varias oportunidades se tornó violento verbalmente, es decir, exigía a los profesionales que adoptaran medidas con su madre según lo que él creía que se debería hacer, a lo que se hacía caso omiso.
-- Que recuerda cuando en una de las visitas, observó al hijo de la paciente que tenía una bolsa en la mano con medicamentos, los cuales manifestaba el hijo que se los proporcionaba a la madre y pudo observar que algunos de ellos estaban vencidos. 
+- Que recuerda cuando en una de las visitas, observó al hijo de la paciente que tenía una bolsa en la mano con medicamentos, los cuales manifestaba el hijo que se los proporcionaba a la madre y pudo observar que algunos de ellos estaban vencidos.
 Ante esta actitud se le explicó al hijo de Kuchasky que no debía proporcionar medicamento alguno, que para eso está el personal de enfermería y no era bueno medicar sin saber. Ante esta explicación el hombre refería comprender, pero cuando se encontraba solo con la madre volvió a observárselo con una bola con medicamentos y se volvía a explicar que no debía hacerlo. Que este tipo de actitudes quedaron plasmadas en los informes diarios que se realizan, los cuales se adjuntan a la historia clínica del paciente.
 -Que el hijo de la Sra. Kuchasky podría tener algún tipo de patología psiquiátrica, ya que sus actitudes y comportamiento no eran normales.
 -Que es toda la información que tiene para aportar.
@@ -84,7 +84,7 @@ Seguidamente se adjunta uno de los informes diarios que constan en la historia c
 Dr. Néstor Schinocca, DNI: [dni03], domicilio: [direccion03] de
 esta ciudad y tel: [telefono03]. En relación a los hechos investigados manifestó:
 
-- Que es médico de planta y que en momentos que se encontraba reemplazando a la Doctora Gaset, siendo las 12:20 horas del día 25 de mazo del corriente, observó cuando el hijo de la Sra. Margarita Kuchasky se puso violento y tomó la bandeja de la comida arrojándola, continuando con la bolsa de los residuos patogénicos de la habitación y los dispersó en la habitación ensuciando a su madre y distintos espacios del lugar. Que en aquella habitación aquel día se encontraba internada una mujer de apellido Lizardo. 
+- Que es médico de planta y que en momentos que se encontraba reemplazando a la Doctora Gaset, siendo las 12:20 horas del día 25 de mazo del corriente, observó cuando el hijo de la Sra. Margarita Kuchasky se puso violento y tomó la bandeja de la comida arrojándola, continuando con la bolsa de los residuos patogénicos de la habitación y los dispersó en la habitación ensuciando a su madre y distintos espacios del lugar. Que en aquella habitación aquel día se encontraba internada una mujer de apellido Lizardo.
 
 El hecho antes descripto consta en parte diario con fecha 25-03-2020 agregado a la historia clínica de la paciente identificado con folio 79, del cual se adjunta captura de pantalla a continuación.
 
