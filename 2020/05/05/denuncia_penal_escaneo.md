@@ -5,6 +5,10 @@ expediente: "MPF00462972"
 original_filename: "Documento 46 (1) (5).pdf"
 texto: "transcripcion manual"
 sha256: "1a992282f98f3d5c137a309edd8a965ebfc16c827d2097e40984b65a8cb1b4b7"
+nota_transcripcion: "títulos de sección con ##; errores de tipeo corregidos, con el original en erratas"
+erratas: "FORMULA DENUNCIA ← FORMULA DENUCIA; HOSPITAL PIÑERO A, Varela ← Hospital Piñero A, Varala; no los sacó a tiempo ← no lossaco a tiempo; Se imprima ← Se impirma; Desde ese día estuve ← Desde ese dia estuve; II. Hechos ← II. Hehcos; abandono de persona ← abandono de perona; PAMI le consiga ← PAMII el consiga; lo expuesto ← lo espuesto; su cremación ← su cremarcion"
+firma_digital: "no"
+fecha_creacion_pdf: "no"
 ---
 
 FORMULA DENUNCIA
@@ -13,14 +17,18 @@ Señores Ministerio Publico Fiscal
 
 Nicolas Horacio Kosciuk DNI 28731776, por mi propio derecho con el patrocinio letrado del Dr Carlos S. Harari Nahem, con domicilio real en la calle Mozart 610 de esta Capital Federal, constituyendo el legal conjuntamente con mi letrado en 2010929747 a VS. me presento y digo
 
-I, Que atento las facultades que me otorga el art 174 del Codigo de Procedimientos Penal vengo a realizar las presente denuncia Penal, por el delito de abandono de perona seguido de muerte art 106 inc 3ro del Codigo Penal de la Nacion. Solicitando desde ya se condene a la autores de tales delitos a las penal que le corresponden según la calificación del hecho.
+## I,
 
-II. Hehcos Mi madre Margarita Leonor Kuchasky 4124110, nacimiento 12/ mayo / 43 ingreso al HOSPITAL PIÑERO A, Varala 1301 CABA por Guardia el 19 de enero de 2019 a la tarde, quedo ahi hasta el lunes donde paso a Internacion de Guardia por uno o dos dias, luego fue trasladada a Clinica Medica Unidad 4 Cama 4, donde estuvo casi 2 meses hasta que la volvieron a cambiar a la Unidad 1,
+Que atento las facultades que me otorga el art 174 del Codigo de Procedimientos Penal vengo a realizar las presente denuncia Penal, por el delito de abandono de persona seguido de muerte art 106 inc 3ro del Codigo Penal de la Nacion. Solicitando desde ya se condene a la autores de tales delitos a las penal que le corresponden según la calificación del hecho.
+
+## II. Hechos
+
+Mi madre Margarita Leonor Kuchasky 4124110, nacimiento 12/ mayo / 43 ingreso al HOSPITAL PIÑERO A, Varela 1301 CABA por Guardia el 19 de enero de 2019 a la tarde, quedo ahi hasta el lunes donde paso a Internacion de Guardia por uno o dos dias, luego fue trasladada a Clinica Medica Unidad 4 Cama 4, donde estuvo casi 2 meses hasta que la volvieron a cambiar a la Unidad 1,
 Cama 18 para liberar camas para casos de coronavirus.
 
 Mientras mi mama estuvo en la Unidad 4 la atencion de los enfermeros fue 10 puntos, hubo dias en los que llegaba tarde al almuerzo y le estaban dando de comer, incluso cosas simples como el pure, podía arreglarse sola.
 
-El problema global, es que los pacientes de PAMI que esperan geriatrico son acaparados por los jefes de piso como una forma de descanso, ya que solo se ocupan de mantenerla con vida hasta que PAMII el consiga el geriatrico, y si pasa algo, culpan a PAMI de que no lo sacaco a tiempo.
+El problema global, es que los pacientes de PAMI que esperan geriatrico son acaparados por los jefes de piso como una forma de descanso, ya que solo se ocupan de mantenerla con vida hasta que PAMI le consiga el geriatrico, y si pasa algo, culpan a PAMI de que no los sacó a tiempo.
 
 En particular, el cambio a la Unidad 1 fue un empeoramiento desde el comienzo, los pulsadores para llamar a enfermería se encienden, pero parece que en la enfermería el tablero esta oculto y no se enteran, una vez hasta 2 horas estuve esperando sin que venga nadie.
 
@@ -43,7 +51,7 @@ Lamentablemente nadie hizo nada mas para velar por la salud de mi mama.
 
 Sospecho que mi madre puede haber muerto de hambre o desnutrición por falta total de cuidado.
 
-III.- Por todo lo espuesto solicito
+## III.- Por todo lo expuesto solicito
 
 1) se tenga por presentada la esta denuncia.
 
@@ -51,7 +59,7 @@ III.- Por todo lo espuesto solicito
 
 3) Se me cite ratificar y ampliar la misma
 
-4) Se tomen las medidas necesarias, para preservar el cuerpo y que no se proceda a su cremarcion,
+4) Se tomen las medidas necesarias, para preservar el cuerpo y que no se proceda a su cremación,
 
 4) Oportunamente se condene a los responsables al máximo de la pena prevista por estos delitos de resultar penalmente responsables
 
