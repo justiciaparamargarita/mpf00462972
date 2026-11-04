@@ -5,10 +5,11 @@ expediente: "MPF00462972"
 original_filename: "Documento 46 (1) (5).pdf"
 texto: "transcripcion manual"
 sha256: "1a992282f98f3d5c137a309edd8a965ebfc16c827d2097e40984b65a8cb1b4b7"
-nota_transcripcion: "títulos de sección con ##; errores de tipeo corregidos, con el original en erratas"
-erratas: "FORMULA DENUNCIA ← FORMULA DENUCIA; HOSPITAL PIÑERO A, Varela ← Hospital Piñero A, Varala; no los sacó a tiempo ← no lossaco a tiempo; Se imprima ← Se impirma; Desde ese día estuve ← Desde ese dia estuve; II. Hechos ← II. Hehcos; abandono de persona ← abandono de perona; PAMI le consiga ← PAMII el consiga; lo expuesto ← lo espuesto; su cremación ← su cremarcion"
+nota_transcripcion: "títulos de sección con ##; errores de tipeo corregidos, con el original en erratas; «yo no tenia permiso»: el «no» sobra, lo confirmó el denunciante el 04/11/2026"
+erratas: "yo tenia permiso ← yo no tenia permiso; FORMULA DENUNCIA ← FORMULA DENUCIA; HOSPITAL PIÑERO A, Varela ← Hospital Piñero A, Varala; no los sacó a tiempo ← no lossaco a tiempo; Se imprima ← Se impirma; Desde ese día estuve ← Desde ese dia estuve; II. Hechos ← II. Hehcos; abandono de persona ← abandono de perona; PAMI le consiga ← PAMII el consiga; lo expuesto ← lo espuesto; su cremación ← su cremarcion"
 firma_digital: "no"
 fecha_creacion_pdf: "no"
+comentario: "Vergonzoso el error del DNI y decir yo no tengo permiso cuando era todo lo contrario. Espero encontrar ese papelito."
 ---
 
 FORMULA DENUNCIA
@@ -36,7 +37,7 @@ Creo que empeoro porque la compañera de cuarto abria la ventana los dias que ha
 
 Algunos dias tuve conflictos porque mi mama evidentemente estaba mal, y el enfermero me mandaba a la guardia (para contagiarme de corona y volver, supongo), porque no podía revisarla, de tanto escándalo logre que vinieran uno 1 sino 4 medicas de guardia y me dijeron que estaba todo bien. Al otro dia le tomaron la temperatura y dio 38,5... pero eso cuando estaba yo, es decir, el medico de piso ni siquiera reviso nada en su supuesto horario de trabajo.
 
-Otro dia, no podia darle de comer por la flema, pero el enfermero no puede usar el aparato para extraer la flema, entonces, nuevamente me manda a la guardia, fui a la guardia, nada, fui a otra unidad a pedir prestado alguien que sepa manejar el aparato y no hubo suerte. Al querer ingresar a la Unidad ya se habian pasado las 15 y termino el horario de visita, por lo que el enfermero se negó a abrirme, PERO yo no tenia permiso para ir a darle de comer y no estaba limitado por ese horario, de todas formas, sabría que estuve paseando buscando alguien que use el aparato y no pude darle de comer ese medio dia a mi mama. Forcejee la puerta para que llamen a Seguridad y hablar con alguien mas sensato que al menos me deje entrar a retirar mis cosas. Ese dia me olvide el cargador con el apuro y mientras un enfermero me decía que no es responsabilidad de ellos darle de comer a ningun paciente, el otro se comprometió a darle de comer y quedamos en que no iria a la noche y el se ocuparía.
+Otro dia, no podia darle de comer por la flema, pero el enfermero no puede usar el aparato para extraer la flema, entonces, nuevamente me manda a la guardia, fui a la guardia, nada, fui a otra unidad a pedir prestado alguien que sepa manejar el aparato y no hubo suerte. Al querer ingresar a la Unidad ya se habian pasado las 15 y termino el horario de visita, por lo que el enfermero se negó a abrirme, PERO yo tenia permiso para ir a darle de comer y no estaba limitado por ese horario, de todas formas, sabría que estuve paseando buscando alguien que use el aparato y no pude darle de comer ese medio dia a mi mama. Forcejee la puerta para que llamen a Seguridad y hablar con alguien mas sensato que al menos me deje entrar a retirar mis cosas. Ese dia me olvide el cargador con el apuro y mientras un enfermero me decía que no es responsabilidad de ellos darle de comer a ningun paciente, el otro se comprometió a darle de comer y quedamos en que no iria a la noche y el se ocuparía.
 
 Al otro dia, revisando si en lugar de robarse alguien el cargador, quizá lo tiro en el tacho de basura, encontré comida INTACTA de la noche anterior que cuando la vio el medico de piso, me echo, esto fue el 26 de marzo. Ese dia fui temprano para contarle sobre la inutilidad
 de algunos enfermeros y como no da parte, me ignoro completamente. Salvo repetir que "todo esta bien y esta esperando tercer nivel (geriátrico)" nunca me hablo nada mas salvo para decir que no es horario, o que no hay nada que tenga que contar, y para echarme.
