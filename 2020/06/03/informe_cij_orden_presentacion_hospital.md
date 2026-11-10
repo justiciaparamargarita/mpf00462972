@@ -3,6 +3,7 @@ fecha: "2020-06-03"
 expediente: "MPF00462972"
 original_filename: "informe (2).pdf"
 fecha_creacion_pdf: "2020-06-03T22:49:34-03"
+firma_digital: "no"
 sha256: "d967ef2d405cc83286a5221f5d55a2980a87e1017193fd2f33bb6d00463277c3"
 ---
 
@@ -51,6 +52,8 @@ fue cargada al sistema kiwi en 7 archivos, quedando físicamente resguardada en 
 Cuerpo de Investigaciones Judiciales – oficina del Jefe de Investigaciones Federico
 Marchetti (Chacabuco 151 CABA) en el interior de una bolsa transparente y precinto
 no 003825 con inscripción “CIJ”.
+
+> [foto: informe_cij_orden_presentacion_hospital_foto_precinto_003825.md]
 
 Cabe destacar que se adjunta al sistema informático KIWI acta de presentación
 con firma de la Sra. Bañuelo Sandra y Acta de Orden de Presentación labrada en el
