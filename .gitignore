@@ -30,6 +30,13 @@ den00641871/2020/03/25/llamada_911_204554_suceso_30493810.wav
 !/historia_clinica/2022/paginas/
 !/historia_clinica/2022/SHA256SUMS
 
+# mails rescatados que no aportan (revisados uno por uno el 25/11/2026)
+/2020/09/28/consulta-publicacion-de-archivos-causa.e2146.md
+/2020/09/28/consulta-publicacion-de-archivos-causa.e2147.md
+/2020/09/29/consulta-publicacion-de-archivos-de-la-c.e2149.md
+/2021/10/27/respuesta-solicitud-de-ley-104-expedient.e1784.md
+/2022/08/17/asesoramiento.e2281.md
+
 # --- publicables (generado por publicables.py, no editar debajo) ---
 # Oculta: DNI
 /2020/04/30/acta_defuncion.pdf
@@ -59,9 +66,9 @@ den00641871/2020/03/25/llamada_911_204554_suceso_30493810.wav
 /2020/06/22/correo_harari_querella_formato_word.pdf
 # Oculta: email
 /2020/07/03/correo_escrich_reenvia_informe_auxiliar.pdf
-# Oculta: teléfono
+# Oculta: dato personal, teléfono
 /2020/07/03/informe_auxiliar_cij_gabinete_medico.pdf
-# Oculta: teléfono
+# Oculta: dato personal, teléfono
 /2020/07/03/informe_auxiliar_cij_gabinete_psicologico.pdf
 # Oculta: email
 /2020/07/13/proveido_tiene_por_querellante.pdf
