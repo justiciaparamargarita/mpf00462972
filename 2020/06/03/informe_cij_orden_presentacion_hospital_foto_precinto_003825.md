@@ -15,5 +15,9 @@ Bolsa plástica transparente cerrada en el cuello con un precinto verde que dice
 Adentro se ven hojas de planilla cuadriculada con anotaciones manuscritas (números en columnas; encabezados parcialmente
 legibles: «EGRESOS», «CONT…»).
 
-Arriba, dentro de la bolsa, hay una tira verde fina del mismo color que el precinto, un objeto oscuro rectangular y un disco
-marrón; no se distingue qué son. No se ve ningún otro número de precinto ni ninguna fecha.
+La hoja de arriba es el frente de la foja 224 de la historia clínica (planilla de CONTROLES, OBSERVACIONES, INGRESOS y
+EGRESOS): se leen las mismas filas, del «10/3 08» (36,9 · 96 · 101 86) al «12/3 8» (36,5 · 88 · 120 60). [vh]
+Entre la bolsa y esa hoja no se ve ninguna otra hoja ni un papel más chico.
+
+Arriba, dentro de la bolsa, hay una tira verde fina que parece un precinto cortado, sin número legible, un objeto oscuro
+rectangular y un disco marrón. No se ve ningún otro número de precinto ni ninguna fecha. [vh]
