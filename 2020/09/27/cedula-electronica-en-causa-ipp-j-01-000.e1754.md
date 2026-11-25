@@ -21,4 +21,4 @@ Salvo Error U Omisión.
  su usuario y contraseña de red para hacernos llegar su inquietud por medio de la nueva herramienta de autogestión http://meayuda.jusbaires.gob.ar/
 
 - adjunto `mail nicolas Kosciuk..pdf`: `causas/mpf00462972/2020/09/23/mail-nicolas-kosciuk.e1754.pdf`
-- adjunto `cedula.pdf`: `causas/pruebas/2020/09/27/cedula-79842.e1058.pdf`
+- adjunto `cedula.pdf`: `causas/mpf00462972/2020/09/27/cedula-79842.e1058.pdf`

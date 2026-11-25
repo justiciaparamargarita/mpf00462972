@@ -24,4 +24,4 @@ Salvo Error U Omisión.
 - adjunto `correo electr�nico 2-10.pdf`: `causas/mpf00462972/2020/10/07/correo-electrnico-2-10.e1758.pdf`
 - adjunto `correo 7-10.pdf`: `causas/mpf00462972/2020/10/08/correo-7-10.e1758.pdf`
 - adjunto `correo electr�nico 6-10.pdf`: `causas/mpf00462972/2020/10/07/correo-electrnico-6-10.e1758.pdf`
-- adjunto `cedula.pdf`: `causas/pruebas/2020/10/09/cedula-20863.e1058.pdf`
+- adjunto `cedula.pdf`: `causas/mpf00462972/2020/10/09/cedula-20863.e1058.pdf`
