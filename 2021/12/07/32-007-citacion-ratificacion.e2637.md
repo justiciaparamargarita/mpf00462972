@@ -15,9 +15,3 @@ sha256: "3d67018b4f0ab8f89d5ea34ddcb8e2f1bf83ccc0ba490ce9bb7aa24e280c0fe7"
 Hola, a quien debo escribir para aportar mas datos?
 
 Gracias.
-
-El 7/6/21 a las 09:14, Nicolas H. Kosciuk escribió:
-> https://gitlab.com/kosciuk/mpf00462972
-> 
-> El 27/5/21 a las 16:29, Elena Tejo escribió:
->> Atte. Elena Tejo Administrativa de la Unidad de Instrucción

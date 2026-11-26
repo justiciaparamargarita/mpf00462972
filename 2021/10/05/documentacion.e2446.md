@@ -9,6 +9,7 @@ cc: "kuchasky@gmail.com"
 asunto: "Re: DOCUMENTACION"
 imagenes_eliminadas: "Outlook-uk2jbeqo.png (14 KB, 239x80)"
 hilo: "e2446"
+responde_a: "e2795"
 origen_email: "fuentes/emails/buenosaires.gob.ar/2021-10/documentacion.e2446.eml"
 sha256: "e37bfbd126b9c5d917a0783dfd825af989bf271cc728ec1308d44d8f1959de8f"
 ---
@@ -52,44 +53,3 @@ Por otra parte, este médico y el director y subdirector, me hicieron una denunc
 Mi prioridad es que me entreguen la Historia Clinica completita y en todo caso hagan lo que este a su alcance para recuperar las partes que faltan, denunciarlo, pedir renuncias a directores, y preguntar a Auger desde cuando sabia de todo esto.
 
 Gracias.
-
-El mar, 5 oct 2021 a las 10:47, Jimena Fernanda Martinez (< jfmartinez@buenosaires.gob.ar>) escribió:
-
->
-> Estimado Nicolas Kosciuk , le comunico que no se adjunto en el formulario
-> la documentación que desea agregar a su expediente , le solicito me la
-> envié a este mail para poder iniciar su pedido .
->
-> Saludos
->
-> * Por favor, calificá nuestra atención en un minuto de tu tiempo haciendo
-> clic AQUÍ <https://forms.gle/prbQDjmcEipBkesA7>. Queremos contarte que
-> renovamos la Orientación Personalizada sobre trámites y
-> seguimiento tradicional mediante videoconsultas de acceso sencillo y
-> rápido en formato BA Cara@Cara. Hacé clic en el botón a continuación:
-> <https://www.buenosaires.gob.ar/jefedegobierno/legalytecnica/buenos-aires-caracara>
-> La recepción de presentaciones de Ciudadanos continúa a distancia mediante
-> el Formulario de Recepción de Trámites. Desde la misma herramienta web
-> podrás realizar las Consultas de Expedientes Electrónicos en los que seas
-> parte. Hacé clic AQUÍ
-> <https://www.buenosaires.gob.ar/tramites/inicio-y-seguimiento-de-expedientes-y-actuaciones>.
-> La recepción de oficios judiciales se gestiona mediante DEOX (Dirección
-> General Mesa de Entradas, Salidas y Archivo - GCABA), y excepcionalmente
-> mediante la dirección oficial oficiosynotificaciones@buenosaires.gob.ar
-> <oficiosynotificaciones@buenosaires.gob.ar>, a la cual te podés dirigir
-> para el diligenciamiento o consultas. Saludos cordiales,” *
->
->
-> *Jimena Fernanda Martinez *
->
-> Subgerencia Operativa Atención al Público
->
-> Dirección General Mesa de Entradas, Salidas y Archivo
->
-> Secretaría Legal y Técnica
->
-> ………………………………………………..
->
-> *W* jfmartinez@buenosaires.gob.ar
->
->

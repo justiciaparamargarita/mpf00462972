@@ -19,7 +19,3 @@ Buenas
 La perito tuvo que haber alertado, aunque en vistas del informe que presentó no habrá leído más de 10 páginas.
 
 Salud y bengalas (C)
-
-El 3/2/21 a las 15:59, Nicolas H. Kosciuk escribió:
-> Hola, como denunciante ¿tengo derecho a que me respondan los mensajes 
-> (al menos los relacionados a la denuncia?
